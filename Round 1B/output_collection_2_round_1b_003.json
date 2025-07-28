@@ -1,0 +1,1933 @@
+{
+  "metadata": {
+    "input_documents": [
+      "Learn Acrobat - Create and Convert_1.pdf",
+      "Learn Acrobat - Create and Convert_2.pdf",
+      "Learn Acrobat - Edit_1.pdf",
+      "Learn Acrobat - Edit_2.pdf",
+      "Learn Acrobat - Export_1.pdf",
+      "Learn Acrobat - Export_2.pdf",
+      "Learn Acrobat - Fill and Sign.pdf",
+      "Learn Acrobat - Generative AI_1.pdf",
+      "Learn Acrobat - Generative AI_2.pdf",
+      "Learn Acrobat - Request e-signatures_1.pdf",
+      "Learn Acrobat - Request e-signatures_2.pdf",
+      "Learn Acrobat - Share_1.pdf",
+      "Learn Acrobat - Share_2.pdf",
+      "Test Your Acrobat Exporting Skills.pdf",
+      "The Ultimate PDF Sharing Checklist.pdf"
+    ],
+    "persona": "HR professional",
+    "job_to_be_done": "Create and manage fillable forms for onboarding and compliance.",
+    "processing_timestamp": "2025-07-28T22:42:31.914779",
+    "challenge_id": "round_1b_003",
+    "test_case_name": "create_manageable_forms",
+    "description": "Creating manageable forms"
+  },
+  "extracted_sections": [
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 5,
+      "section_title": "To add signature and initials:",
+      "importance_rank": 0.2926
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "Interactive form",
+      "importance_rank": 0.2802
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 2,
+      "section_title": "Enter the desired information and do one of the following:",
+      "importance_rank": 0.2744
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "Fill and sign PDF forms",
+      "importance_rank": 0.2657
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 21,
+      "section_title": "PDF/A Compliance",
+      "importance_rank": 0.257
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "Types of PDF forms",
+      "importance_rank": 0.2537
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "importance_rank": 0.2393
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "To fill text fields:",
+      "importance_rank": 0.2392
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "An interactive form contains fields that you can select or fill in.",
+      "importance_rank": 0.2354
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "Is the form fillable?",
+      "importance_rank": 0.2303
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 2,
+      "section_title": "3.  From the Verification box in the Digital Signatures panel, select More...",
+      "importance_rank": 0.2281
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 1,
+      "section_title": "Adobe LiveCycle Rights Management (ALCRM) servers",
+      "importance_rank": 0.2277
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "usage rights.",
+      "importance_rank": 0.2233
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "Change flat forms to fillable (Acrobat Pro)",
+      "importance_rank": 0.2197
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 3,
+      "section_title": "authentication, reminders, and more.",
+      "importance_rank": 0.2163
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 23,
+      "section_title": "Certifying and signing documents",
+      "importance_rank": 0.2082
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 5,
+      "section_title": "1.  From the Quick action toolbar, select Add your signature or initials",
+      "importance_rank": 0.2066
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 14,
+      "section_title": "9.  Prepare the Agreement and Add Fields:",
+      "importance_rank": 0.2027
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 4,
+      "section_title": "More or Advanced Options",
+      "importance_rank": 0.2019
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 2,
+      "section_title": "add a message, or Add deadline, and select Invite.",
+      "importance_rank": 0.2015
+    }
+  ],
+  "subsection_analysis": [
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "section_title": "What’s the best way to create a PDF?",
+      "refined_text": "You can create PDFs from documents printed on paper, Microsoft Word documents, InDesign® files, digital images, and more. Diﬀerent types of sources have diﬀerent tools available for PDF conversion. In many applications, you can create PDFs by selecting the Adobe PDF printer in the Print dialog box. If a file is open in its authoring application (such as a spreadsheet that is open in Microsoft Excel), you can convert it to PDF without opening Adobe Acrobat. Similarly, if Acrobat is already open, you don’t have to open the authoring application to convert a file to PDF. Every PDF balances eﬃciency (small file size) and quality (such as resolution and color). If the balance between the file size and the quality is critical to your task, you must use an appropriate conversion method. For example, you can drag files to the Acrobat icon to create PDFs. In this case, Acrobat applies the most recently used conversion settings without providing access to those settings. If you want more control over the process, you’ll want to use another method."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "section_title": "PDF creation methods by file type",
+      "refined_text": "Refer to the following lists to determine the methods available for the diﬀerent types of files."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 2,
+      "section_title": "Any file format",
+      "refined_text": "Method 1 : From the top tools bar, select Create . Then, select a file type and then select the file that you want to convert to PDF. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create and then select the appropriate file type and follow through the steps. Method 2 : Drag and drop a file from your system to the Acrobat Home page. Method 3: Right-click on the file and then select Convert to Adobe PDF . Method 4: Open the file in its source application and go to Print > Adobe PDF printer ."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 3,
+      "section_title": "Paper documents (Requires a scanner)",
+      "refined_text": "Method 1: From the top tools bar, select Create . Then, select Scanner as the file type, select the scanner, and follow through the steps or browse to locate a pre-scanned page. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create from scanner and follow through the workflow."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 3,
+      "section_title": "Microsoft Oﬃce documents",
+      "refined_text": "Method 1 (Windows only): From the authoring application toolbar, select Adobe Acrobat > Create and Share Adobe PDF . Method 2 (Windows only): Open the file in its source application and then go to Print > Adobe PDF printer . Method 3 (Windows only): Right-click on the file and select Convert to Adobe PDF . Method 4: Drag and drop the file from your system to the Acrobat Home page. Method 5 (macOS only): From the authoring application, select File > Print > PDF > Save as Adobe PDF ."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 3,
+      "section_title": "Email messages",
+      "refined_text": "Method 1 (Windows only): Within Microsoft Outlook or Lotus Notes, select Acrobat PDFMaker or select Adobe PDF menu options (Outlook) or the Actions menu (Lotus Notes). Method 2 (Windows only): From the email application, go to Print > Adobe PDF Create a PDF (not a PDF Portfolio). Method 3 (Outlook 2010 or later): From the email folder or selection of messages, right-click and then select Convert to Adobe PDF ."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 4,
+      "section_title": "Web pages",
+      "refined_text": "Method 1: From the top tools bar, select Create . Then, select Web page as the file type and follow through the steps. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from web page and follow through the workflow. Method 2: Drag and drop the HTML file from your system to the Acrobat Home page. Method 3: Right-click on the file and then select Convert to Adobe PDF."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 4,
+      "section_title": "Content copied on the clipboard",
+      "refined_text": "Method 1: From the top tools bar, select Create . Then, select Clipboard as the file type and follow through the steps. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from clipboard and follow through the workflow."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 4,
+      "section_title": "AutoCAD files (Acrobat Pro for Windows only)",
+      "refined_text": "Method 1: From the top tools bar, select Create and then select the file. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from file and follow through the workflow. Method 2: Drag and drop the HTML file from your system to the Acrobat Home page."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 5,
+      "section_title": "Adobe Photoshop, Adobe Illustrator, and Adobe InDesign files",
+      "refined_text": "Method 1: From the top tools bar, select Create a PDF and then select the file. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from file and follow through the workflow. Method 2: Drag and drop the file from your system to the Acrobat Home page."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 5,
+      "section_title": "PostScript and EPS files",
+      "refined_text": "Method 1: From the top tools bar, select Create and then select the file. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from file and follow through the workflow. Method 2: Drag and drop the file from your system to the Acrobat Distiller icon or Acrobat Distiller window."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 5,
+      "section_title": "3D files (Acrobat Pro)",
+      "refined_text": "Method 1: From the top tools bar, select Create and then select the file. Or, select the hamburger menu (Windows) or the File menu (macOS) > Create > PDF from file and follow through the workflow. Method 2: Drag and drop the HTML file from your system to the Acrobat Home page."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 7,
+      "section_title": "•  In Acrobat, select Create from the global toolbar.",
+      "refined_text": "The Create a PDF tool opens. On the left rail, Single file is selected by default. Choose the Select a file button. • Select the hamburger menu > Create > PDF from File (Windows), or File > Create > PDF from File (macOS). 2. In the Open dialog box, select the ﬁle that you want to convert. You can browse all ﬁle types or select a speciﬁc type from the Files Of Type drop-down menu."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 8,
+      "section_title": "3.  Optionally, select Advanced settings to change the conversion options if you're",
+      "refined_text": "converting an image file to PDF. The options available vary depending on the file type."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 8,
+      "section_title": "4.  Select Create to convert the ﬁle to a PDF.",
+      "refined_text": "Depending on the type of ﬁle being converted, the authoring applica Ɵon opens automa Ɵcally, or a progress dialog box appears. If the ﬁle is in an unsupported format, a message appears, telling you that the ﬁle cannot be converted to PDF. 5. When the new PDF opens, choose the hamburger menu > Save or Save As (Windows), File > Save or File > Save As (macOS), and then select a name and location for the PDF."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 10,
+      "section_title": "1.  Capture content in the Clipboard:",
+      "refined_text": "• Use the copy command in the applications."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 12,
+      "section_title": "1.  In Acrobat, select Create from the global bar.",
+      "refined_text": "2. The Create a PDF tool opens. On the le Ō rail, select Mul Ɵple ﬁles > Create mul Ɵple"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 12,
+      "section_title": "PDF ﬁles , and then select Next .",
+      "refined_text": "3. Choose Add Files > Add Files or Add Folders , and then select the ﬁles or folder."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 12,
+      "section_title": "About Acrobat PDFMaker",
+      "refined_text": "PDFMaker is an Acrobat feature that operates within many business applications, such as Microsoft Office applications, AutoCAD, and Lotus Notes. When you install Acrobat, PDFMaker controls appear in the work area of the authoring application. Note: Some PDFMaker features are not available in certain versions of the authoring applications. For a comparison chart, see Compatible web browsers and PDFMaker applications | Acrobat, Reader ."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 13,
+      "section_title": "Using Create PDF cloud service for PDF conversion",
+      "refined_text": "Acrobat provides an option to use Adobe Create PDF cloud service in addition to a local conversion to convert Microsoft Word documents to PDFs. The created PDFs are high-quality and provide exceptional visual fidelity. They are well-tagged for better accessibility. They also include link recognition so that hyperlinks, internal document links, and tables of contents are created as live links."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 14,
+      "section_title": "Convert a file to PDF using PDFMaker",
+      "refined_text": "In Windows, Acrobat installs both an Acrobat PDFMaker toolbar and an Adobe PDF menu in many popular authoring applications. You can use either the toolbar buttons or the Adobe PDF menu (the Action menu in Lotus Notes) to create PDFs, but the menu also provides access to conversion settings. Although many of the conversion options are common to all authoring applications, a few are application-specific. For Microsoft Office applications such as Word, Excel, and PowerPoint, the options for creating PDFs are available from the Acrobat ribbon."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 14,
+      "section_title": "Show or activate PDFMaker in Microsoft Office and Lotus Notes",
+      "refined_text": "If the PDF toolbar buttons don’t appear in your Microsoft Office or Lotus Notes application, use one of the following methods to show or activate PDFMaker. For Lotus Notes 9, choose File > Preferences . In the dialog box that appears, choose Toolbar > Toolbars , and select the Visible option for Acrobat PDFMaker ."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 15,
+      "section_title": "the Create PDF button on the Acrobat ribbon.",
+      "refined_text": "3. Enter a filename and location for the PDF, and select Save . 4. (Optional) Check View Result to open the PDF or enable Protect PDF to specify"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 15,
+      "section_title": "the Security settings for the PDF.",
+      "refined_text": "Create a PDF and share the link for viewing or commenting Applicable to Microsoft Word, Excel, and PowerPoint"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 16,
+      "section_title": "You can share the link with the desired recipients.",
+      "refined_text": "Create a PDF and share via Outlook Applicable to Microsoft Word, Excel, and PowerPoint"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 17,
+      "section_title": "the link in a new message draft.",
+      "refined_text": "4. You can edit the message as desired, add the recipient's email addresses, and then"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 19,
+      "section_title": "about yourself, and click Complete .",
+      "refined_text": "4. Follow the directions in the wizard that appears, as described in Start an email-based"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 19,
+      "section_title": "the files.",
+      "refined_text": "4. The PDF opens in Acrobat. Click Start in the right-hand pane to process the file."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 20,
+      "section_title": "Conversion Settings",
+      "refined_text": "Specifies the standard by which the PDF will be optimized. When you choose an item in the menu, a description of that preset appears immediately below it."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 21,
+      "section_title": "PDF/A Compliance",
+      "refined_text": "Creates the PDF so that it conforms to the selected ISO standard for long-term preservation of electronic documents."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 21,
+      "section_title": "Security tab of the Adobe PDFMaker preferences",
+      "refined_text": "The settings available for PDFMaker depend on the application in which you’re using PDFMaker."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 21,
+      "section_title": "Require A Password To Open The Document",
+      "refined_text": "When selected, makes the Document Open Password option available, where you enter a password that users must use to open the document."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 21,
+      "section_title": "Change Permissions Password",
+      "refined_text": "Specifies a password you set that users must use in order to do any allowable printing or editing."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 21,
+      "section_title": "Printing Allowed",
+      "refined_text": "Specifies whether users who use the Permissions Password can print the document and at what resolution."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 22,
+      "section_title": "3.  From the Acrobat ribbon, select one of the Create options.",
+      "refined_text": "4. In the Acrobat PDFMaker dialog box, select a Conversion Range , then"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 22,
+      "section_title": "choose Convert To PDF .",
+      "refined_text": "5. In the Save Adobe PDF File As dialog box, specify a filename and location for the PDF."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 22,
+      "section_title": "2.  Optionally, select objects and text (Word) or slides (PowerPoint), as needed.",
+      "refined_text": "3. (Office 2010) From the Acrobat ribbon, select Create PDF, Create And Attach to Email,"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 22,
+      "section_title": "or Create And Send For Review.",
+      "refined_text": "4. In the Save Adobe PDF File As dialog box, specify a filename and location for the PDF."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 24,
+      "section_title": "using an earlier version of PDFMaker, do one of the following:",
+      "refined_text": "• To create a PDF Portfolio from the original PDF archive, click Yes , and select a name and location for the new archive. (The default name adds _Portfolio to the original PDF filename.) When the conversion is complete and the Creating Adobe PDF dialog box closes, the new archive opens in Acrobat."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 26,
+      "section_title": "•  (Lotus Notes) Choose Actions > Setup Automatic Archival .",
+      "refined_text": "2. On the Automatic Archival tab of the Acrobat PDFMaker dialog box, select Enable Automatic Archival . Then select options for Frequency and the time of day at which automatic archiving occurs."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 28,
+      "section_title": "Status indicators appear as PDFMaker generates the individual PDFs,",
+      "refined_text": "6. If you selected Automatically Send Adobe PDF Files By Email , a dialog box appears asking for your email profile. Enter the appropriate information and click OK . When the job has finished, a message appears, telling you that the process was successful."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_1.pdf",
+      "page_number": 28,
+      "section_title": "Subject Line",
+      "refined_text": "Type the text that you want to appear in the subject line of each message."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "refined_text": "Note: If you select Retain Some Layers In The Selected Page , you’ll be prompted to choose which Visio layers to include. 1. Click Convert To Adobe PDF , specify a location and filename, and click Save ."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 1,
+      "section_title": "Select Visio layers to convert (Acrobat Pro)",
+      "refined_text": "You can convert a Visio drawing that contains layers to a PDF and retain some or all of the layers in the resulting PDF, or you can flatten the layers. You can also organize the Visio layers in layer sets , which are folders in the Acrobat Layers panel. 1. With the multilayered file open in Visio, click a button in the Adobe PDF toolbar, and"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 1,
+      "section_title": "select Retain Some Layers In The Selected Page .",
+      "refined_text": "Note: If the Retain Some Layers In The Selected Page option is not available, deselect the Convert All Pages In Drawing option. 2. Select one or more layers in the Layers In Visio Drawing list. 3. To add the selected Visio layers to the list of layers to convert to the PDF file, do one"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 1,
+      "section_title": "of the following:",
+      "refined_text": "• To convert the selected Visio layers to individual PDF layers within a PDF layer set, click Create Layer Set , and optionally, type a layer name. • To convert the selected Visio layers to individual layers (but not grouped under a layer set), click the Add Layer(s) button. Note: The name of a layer in the Layers In Visio Drawing list is unavailable if that layer is included in the Layers In PDF list. When you select that layer in the Layers In PDF list, a bullet appears next to the layer’s name in the Layers In Visio Drawing list."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 1,
+      "section_title": "4.  Optionally, do any of the following:",
+      "refined_text": "• To reorder the layers in the Layers In PDF list, drag an item up or down in the list. • To include a visibility property that can be switched on or off in Acrobat, deselect Locked On adjacent to the PDF layer; to lock the resulting PDF layer’s visibility on, select Locked On . • To save the current settings of Visio layers selected, click Save PDF Settings , and click OK . These settings are used the next time you convert the current Visio file to a PDF file. 5. Click Convert To PDF , specify a folder in the Save In box in which to save the PDF file,"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 1,
+      "section_title": "type a filename, and then click Save .",
+      "refined_text": "Note: Visio layers that were selected for conversion and that have Visio settings for visible, printable, or lock are converted to PDF layers; the visible and printable properties are included in the resulting PDF layers. If the Visio file contains a background page, header, or footer, the PDF file automatically has PDF layers named for those items."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 3,
+      "section_title": "Acrobat can't convert DWG to PDF without AutoCAD installed.",
+      "refined_text": "1. To change the PDF conversion settings, choose Adobe PDF > Change Conversion"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 3,
+      "section_title": "•  Choose Adobe PDF > Convert To Adobe PDF And Email .",
+      "refined_text": "• Choose Adobe PDF > Convert To Adobe PDFAnd Send For Review . 3. In the Choose Layouts dialog box, add or remove layouts as needed. To reorder the layouts, select a layout from the Layouts In PDF list, and click Move Up or Move Down . 4. To determine how the AutoCAD layers are converted, select one of the following, and"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 5,
+      "section_title": "3.  In the DWG List, do any of the following:",
+      "refined_text": "• Click Add Folder or Add Files , and then specify the folder or files. • To load a previously saved list of files, click Append List , and then specify the list. • As needed, expand individual files and select or deselect the items you want, such as model space and layouts. To exclude or include all model space, click the associated buttons. • To exclude a file from the conversion, deselect the file box. As needed, select or deselect all of the files in the list, change the order of the files, remove files, or clear the list."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 5,
+      "section_title": "4.  Click Convert .",
+      "refined_text": "5. Once the conversion has finished, you can click Save Details to save a log file of the"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 6,
+      "section_title": "Application-specific PDFMaker settings",
+      "refined_text": "Sometimes the conversion settings in one PDFMaker-enabled application are different from the settings in a different application. Some PDFMaker settings are common to several or most applications. Some options are unique to a specific application."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 6,
+      "section_title": "Settings tab options available from within most applications",
+      "refined_text": "The following settings appear on the Settings tab available from within most PDFMaker- enabled applications."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 6,
+      "section_title": "Create Bookmarks",
+      "refined_text": "Converts certain elements in original Office documents to PDF bookmarks: Word headings, Excel worksheet names, or PowerPoint titles. Selecting this option overrides any settings on the Bookmarks tab of the Conversion Settings dialog box."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 6,
+      "section_title": "Convert Comments",
+      "refined_text": "Converts user-created Excel comments to notes and lists them in the Acrobat Comments panel."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 6,
+      "section_title": "Fit Worksheet To A Single Page",
+      "refined_text": "Adjusts the size of each worksheet so that all the entries on that worksheet appear on the same page of the PDF."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 7,
+      "section_title": "Prompt For Selecting Excel Sheets",
+      "refined_text": "Opens a dialog box at the beginning of the file conversion process. In this dialog box, you can specify which worksheets are included in the PDF and the order in which the sheets appear in the PDF."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 7,
+      "section_title": "Email-specific options on the Settings tab",
+      "refined_text": "The following options appear when you open the PDFMaker settings from within Microsoft Outlook or Lotus Notes."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 7,
+      "section_title": "Compatibility",
+      "refined_text": "Sets the compatibility level of the PDF. Use the most recent version (in this case, version 1.7 ADBE-3) to include all the latest features and functionality. If you’re creating PDFs that are distributed widely, choose an earlier level to ensure that all users can view and print the document."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 7,
+      "section_title": "Attachments",
+      "refined_text": "Indicates whether all files attached to email messages are included in the PDF."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 8,
+      "section_title": "Page Layout options",
+      "refined_text": "Specifies page properties, like the properties found in the Print dialog box: page dimensions, orientation, and margins."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 8,
+      "section_title": "Show “Attach As Adobe PDF” Buttons",
+      "refined_text": "If selected, the Attach As Adobe PDF button appears in the Outlook email message window."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 8,
+      "section_title": "Choose Layout Option",
+      "refined_text": "Specifies whether Current Layout , All Layouts , or Selected Layouts are included in the PDF."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 9,
+      "section_title": "Visio-specific options on the Settings tab (Acrobat Pro)",
+      "refined_text": "The following options appear when you open the PDFMaker settings from within Microsoft Visio."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 12,
+      "section_title": "Create PDFs by printing to file",
+      "refined_text": "In many authoring applications, you can use the Print command with the Adobe PDF printer to convert your file to PDF. Your source document is converted to PostScript and fed directly to Distiller for conversion to PDF, without manually starting Distiller. The current Distiller preference settings and Adobe PDF settings are used to convert the file. If you’re working with nonstandard page sizes, create a custom page size."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 12,
+      "section_title": "Create a PDF using the Print command (Windows)",
+      "refined_text": "1. Open the file in its authoring application, and choose File > Print."
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 12,
+      "section_title": "Create a PDF using the Print command (Mac OS X)",
+      "refined_text": "The method for creating PDFs using the Print command changed in Mac OS v10.6 Snow Leopard with Acrobat 9.1 and later. The following procedure describes the method in both Snow Leopard and earlier versions of Mac OS X. 1. Open the file in its authoring application, and choose File > Print. 2. Choose Save As Adobe PDF from the PDF menu at the bottom of the dialog box. 3. For Adobe PDF Settings, choose one of the default settings, or customize the settings"
+    },
+    {
+      "document": "Learn Acrobat - Create and Convert_2.pdf",
+      "page_number": 17,
+      "section_title": "Printer Ports dialog box.",
+      "refined_text": "7. In the Adobe PDF Properties dialog box, click Apply, and then click OK. Note: For best results, select a folder on the same system where Distiller is installed. Although remote or network folders are supported, they have limited user access and security issues. Delete a folder and reassign the Adobe PDF printer to the default port 1. Quit Distiller if it is running, and allow a few minutes for all queued jobs to Adobe"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 2,
+      "section_title": "Introduction",
+      "refined_text": "Edit text in a PDF Open the PDF you want to edit in Acrobat, and then select Edit in the global bar. The PDF switches to the edit mode, and the Edit panel displays. If the PDF is generated from a scanned document, Acrobat automatically runs OCR to make the text and images editable. The Edit panel includes options to modify the page, add content, redact a PDF, and convert various documents to PDF forms. You can use the options in the Edit panel to replace, edit, or add text to a PDF. You can correct typos, change fonts and typeface size, adjust alignment,"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 3,
+      "section_title": "Set the default font for adding and editing text",
+      "refined_text": "When you add text in a PDF, by default Acrobat chooses nearby font attributes for the new text. When you edit text, any font that isn't available on the system is substituted by a default fall-back font for the particular script. For example, Minion Pro is the default fall-back font for Roman script fonts. The substitution of unavailable fonts by default fonts can introduce inconsistency in the look and feel of text in a PDF document. To avoid inconsistency, choose a specific font for any text that is added or modified in the PDF document from Font"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 3,
+      "section_title": "macOS.)",
+      "refined_text": "2. In the dialog box, select Content Editing under Categories to display Font Options."
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 3,
+      "section_title": "2.  Default font for Add Text and Font Size.",
+      "refined_text": "4. Select OK to save the changes and close the Preferences dialog box."
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 4,
+      "section_title": "Change, replace, or delete text",
+      "refined_text": "When you edit text, the text in the paragraph reflows within its text box to accommodate the changes. Each text box is independent, and inserting text in one text block doesn’t push down"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 4,
+      "section_title": "1.  Select Edit in the global bar.",
+      "refined_text": "2. Select the text that you want to edit. The text-box turns blue upon selection, and a"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 4,
+      "section_title": "3.  Edit the text by doing one of the following:",
+      "refined_text": "1. Type new text to replace the selected text, or press Delete to remove it. 2. To rotate the text box, use the rotation handle at the top of the selected text"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 4,
+      "section_title": "box.",
+      "refined_text": "3. Manage list items using the list controls (bulleted and numbered) in the left Format panel. You can create lists and, conversely, convert a list item to a"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 4,
+      "section_title": "paragraph or change list types.",
+      "refined_text": "4. Select a font, font size, or other formatting options in the left Format panel. You"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 4,
+      "section_title": "spacing, horizontal scaling, stroke width, and color.",
+      "refined_text": "4. Select any area outside the selection to deselect it, and start over."
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 5,
+      "section_title": "2.  Select the text that you want to change.",
+      "refined_text": "3. In the Format Text section on the left panel, select a font, font size, bold, or other formatting options. You can also try the advanced format options, such as line spacing,"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 6,
+      "section_title": "Add new text",
+      "refined_text": "You can add or insert new text into a PDF using any of the fonts installed on the system. 1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 7,
+      "section_title": "copy text boxes and paste them on another page.",
+      "refined_text": "Resizing a text box causes the text to reflow within the new text box boundaries. It doesn't change the size of the text. As with other text edits, resizing is limited to the current page. Text"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 7,
+      "section_title": "Content .",
+      "refined_text": "2. Select the text box that you want to move, rotate, or resize."
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 9,
+      "section_title": "Add or edit lists",
+      "refined_text": "You can add items to a numbered or bulleted list, create list items, convert a paragraph to a"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 9,
+      "section_title": "list item, and conversely. You can also change list types.",
+      "refined_text": "1. Select Edit in the global bar. Then, from the Edit panel, select Text under Add"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 9,
+      "section_title": "same familiar controls that you use in Microsoft® Office. For example,",
+      "refined_text": "press Enter at the end of a list item to insert a new row. Press Backspace to remove the new row and position the cursor back to the end of the previous"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 9,
+      "section_title": "To create a numbered or bulleted list:",
+      "refined_text": "1. Place the cursor in the document at the location where you want to add a list."
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 11,
+      "section_title": "2.  Select the text that you want to change.",
+      "refined_text": "3. In the Format Text section on the Edit panel, from the Font drop-down menu, select"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 11,
+      "section_title": "2.  Select the text that you want to change.",
+      "refined_text": "3. In the Format Text section on the Edit panel, from the Font size menu, select the font"
+    },
+    {
+      "document": "Learn Acrobat - Edit_1.pdf",
+      "page_number": 15,
+      "section_title": "3.  In the dialog that appears, provide a name to the button.",
+      "refined_text": "4. To change the properties of the button, double-click the button and then select"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "refined_text": "1. Make the desired changes in the app. Bear in mind the following: • If you change the dimensions of the image, the image may not align correctly in the PDF. • Transparency information is preserved only for masks that are specified as index values in an indexed color space. • If you're working in Photoshop, flatten the image. • Image masks aren't supported. • If you change image modes while editing the image, you may lose valuable information that can be applied only in the original mode. • 2. In the editing app, choose File > Save . The object is automatically updated and"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 1,
+      "section_title": "displayed in the PDF when you bring Acrobat to the foreground.",
+      "refined_text": "Note: For Photoshop, if the image is in a format supported by Photoshop 6.0 or later, your edited image is saved back into the PDF. However, if the image is in an unsupported format, Photoshop handles the image as a generic PDF image. The edited image is saved to disk instead of the PDF. Export PDF images to another format You can save every page (all text, images, and vector objects on a page) to an image format. Choose Convert > Export PDF To > Image format > [Image Type]. You can also export each image in a PDF to a separate image file. Rotate, move, delete, extract, or renumber pages in a PDF Rotate pages in a PDF You can rotate all or select pages in a document. Rotation is based on 90-degree increments. You can rotate pages using the rotate tools in the Page Thumbnails pane or the Rotate option."
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 3,
+      "section_title": "1.  Open the PDF in Acrobat, choose All tools > Organize pages.",
+      "refined_text": "2. From the left pane, specify the page range on which you want to apply the rotation. Select the drop-down menu under PAGES SELECTED , then select the appropriate option. Alternatively, you can enter the page number you want to operate on. 3. After specifying the page range, for Direction, select either Rotate page left for"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 3,
+      "section_title": "counterclockwise 90° rotation or Rotate page right° for clockwise 90° rotation .",
+      "refined_text": "4. You can also apply the page rotation on a specific page by selecting the buttons in the"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 4,
+      "section_title": "Extract pages from a PDF",
+      "refined_text": "Extraction is reusing selected pages of one PDF in a different PDF. Extracted pages include the content and the form fields, comments, and links of the original document. You can leave the extracted pages in the original document or remove them during extraction."
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 4,
+      "section_title": "3.  Select Extract pages  under PAGE OPTIONS .",
+      "refined_text": "4. In the dialog, select one or more of the following before you select Extract : • To remove the extracted pages from the original document, select Delete pages after extracting . • To create a single-page PDF for each extracted page, select Extract pages as separate files . • To keep the original pages intact and create a single PDF for the extracted pages, deselect both options."
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 4,
+      "section_title": "The extracted pages are placed in a new document.",
+      "refined_text": "Note: The creator of a PDF document can set the security to prevent the extraction of pages. To view the security settings for a document, choose Document properties from the hamburger menu (Windows) or File menu in macOS and then select the Security tab in the dialog."
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 15,
+      "section_title": "2.  From the global bar in the upper left, select Edit .",
+      "refined_text": "3. Select the text element that you want to edit and start typing. The new text matches"
+    },
+    {
+      "document": "Learn Acrobat - Edit_2.pdf",
+      "page_number": 16,
+      "section_title": "opens, select Enhance .",
+      "refined_text": "4. The image is enhanced and a PDF of the image is shown."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 2,
+      "section_title": "Export",
+      "refined_text": "You can save your changes to an Adobe PDF or PDF Portfolio in the original PDF or in a copy of the PDF. You can also save individual PDFs to other file formats, including text, XML, HTML, and Microsoft Word . Saving a PDF in text format allows you to use the content with a screen reader, screen magnifier, or other assistive technology. If you don’t have access to the source files that created an Adobe PDF , you can still copy images and text from the PDF to use elsewhere. You can also export the PDF to a reusable format, or export images in a PDF to another format. Adobe Acrobat Reader users can save a copy of a PDF or PDF Portfolio if the creator of the document has enabled usage rights. If a document has additional or restricted usage rights, the document message bar under the toolbar area describes the assigned restrictions or privileges."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 2,
+      "section_title": "Save a PDF",
+      "refined_text": "Use this method to save PDFs, including PDF Portfolios , and PDFs in which you have added comments, form field entries, and digital signatures."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 2,
+      "section_title": "1.  Do one of the following:",
+      "refined_text": "• To save changes, select Save to computer from the upper right. Alternatively you can also select the hamburger menu and select Save . For macOS, select File > Save . • To save a copy of a PDF in Windows, select the hamburger menu and then select Save As . For macOS, select File > Save As . • In Acrobat Reader, for Windows, select the hamburger menu and then select> Save As . For macOS, select File > Save as Text . • To save a copy of a PDF Portfolio, select File > Save ."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 3,
+      "section_title": "Note:",
+      "refined_text": "If you are viewing a PDF in a web browser, the Acrobat File menu is not available. Use the Save A Copy button in the Acrobat toolbar to save the PDF."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 4,
+      "section_title": "About the Autosave feature",
+      "refined_text": "The Autosave feature guards against losing your work in case of a power failure by incrementally, and at regular intervals, saving file changes to a specified location. The original file is not modified. Instead, Acrobat creates an autosave file of changes, which includes all the changes you made to the open file since the last automatic save. The amount of new information that the autosave file contains depends on how frequently Acrobat saves the autosave file. If you set the autosave interval to 15 minutes, you could lose the last 14 minutes of your work if a problem occurs. Frequent automatic saving prevents loss of data, and is especially useful if you make extensive changes to a document, such as by adding comments. You can apply autosave changes to the original files when you restart Acrobat. When you close, save manually, or revert to the last-saved version of a file, the autosave file is deleted."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 4,
+      "section_title": "The Autosave feature won’t work in the following cases:",
+      "refined_text": "• A document that has its security changed. You must save the document to re-enable automatic saving of document changes. • A document created using the Web Capture feature or extracted from a larger PDF ( All tools > Organize Pages > Extract ). You must save the document to enable automatic saving of changes. • A document displayed in a web browser or incorporated into a container document that supports Object Linking and Embedding (OLE). This document appears outside the default file system and cannot support automatic saving."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 5,
+      "section_title": "1.  Start Acrobat or open the file you were working on last.",
+      "refined_text": "2. When prompted, click Yes to open the autosave file or files. If multiple files were open, Acrobat opens all of the files for you. 3. Save the file or files with the same names as the files you were originally working on. To control changes and quality trade-oﬀs, use PDF Optimizer in Acrobat Pro , which makes more options available. You can also easily convert from other file formats to PDF using our online tools such as Word to PDF and Convert PDF . You can easily convert your PDF files into Microsoft Word (DOC or DOCX) using Adobe Acrobat."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 7,
+      "section_title": "4.  Select Convert to PPTX .",
+      "refined_text": "5. In the dialog, select the location where you want to save the file and, if necessary,"
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 8,
+      "section_title": "File settings",
+      "refined_text": "• Grayscale/Color: Specifies a compression setting that balances file size with image quality. The smaller the file, the lesser the image quality. • Tile Size: Divides the image being compressed into tiles of the given size. (If the image height or width is not an even multiple of the tile size, partial tiles are used on the edges.) Image data for each tile is individually compressed and can be individually decompressed. The default value of 256 is recommended. This option is available only for JPEG 2000 format. • Format: Determines how the file is displayed. Available only in JPEG format. It provides the following options: • Baseline (Standard): Displays the image when it has fully downloaded. This JPEG format is recognizable to most web browsers. • Baseline (Optimized): Optimizes color quality of the image and produces smaller file sizes but is not supported by all web browsers. • Progressive (3 scans-5 scans): Downloads the image first as a low-resolution image, with incremental quality improvements as downloading continues. Color management"
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 13,
+      "section_title": "4.  Select Convert to RTF .",
+      "refined_text": "5. In the Save as dialog, select a location where you want to save the file and then"
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 15,
+      "section_title": "4.  Select Convert to HTML.",
+      "refined_text": "5. In the Save as dialog, select a location where you want to save the file and then"
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 16,
+      "section_title": "Multiple html pages",
+      "refined_text": "Specifies that multiple HTML files are created when you export to HTML. Choose one of the criteria to split the document into multiple HTML files. • Split by Document Headings • Split by Document Bookmarks"
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 17,
+      "section_title": "4.  Select Convert to XLSX .",
+      "refined_text": "5. In the Save as dialog, select a location where you want to save the file and then"
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 18,
+      "section_title": "Excel Workbook Settings",
+      "refined_text": "Specifies whether to create a Worksheet for each table or page, or the entire document."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 18,
+      "section_title": "Numeric Settings",
+      "refined_text": "Specifies the decimal and thousands separators for numeric data. Select one of the following:"
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 21,
+      "section_title": "Printer Description File",
+      "refined_text": "The PostScript Printer Description (PPD) provides the necessary information to format a PostScript file correctly for a particular output device. Device Independent creates only composite (not color-separated) PostScript or EPS files. Acrobat Default provides a starting point and reference for creating all types of PostScript and restores all default settings for the conversion. Adobe PDF 7.0 is compatible with most devices. This option is available only in PostScript (PS) format."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 23,
+      "section_title": "Generate Bookmarks",
+      "refined_text": "Generates bookmark links to content for HTML or XML documents. Links are placed at the beginning of the resulting HTML or XML document."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 26,
+      "section_title": "Overview",
+      "refined_text": "Acrobat allows you to export images and text selections from a PDF to different file formats. Each format uses unique conversion settings when you export text or image selections."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 27,
+      "section_title": "7.  Select Save .",
+      "refined_text": "It exports only the images from the PDF to the selected image file format. By default, the source filename is used with the new extension, and the exported file is saved in the same folder as the source file."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 27,
+      "section_title": "2.  Right-click the selected text and choose Export Selection As .",
+      "refined_text": "3. Select a format from the Save As Type list and select Save ."
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 30,
+      "section_title": "Convert selected content to other formats",
+      "refined_text": "You convert selected content to other formats by exporting a selection. For example, you can select content and save it as a Word document , Excel spreadsheet, or comma-separated values. 1. Select the Select tool . Press Ctrl (Windows) or Command (macOS) to create a rectangular selection. 2. Drag a rectangle over the content to copy. If you’re selecting text in columns,"
+    },
+    {
+      "document": "Learn Acrobat - Export_1.pdf",
+      "page_number": 30,
+      "section_title": "Saves the content as an RTF or HTML file.",
+      "refined_text": "Note: To copy a table in RTF, drag the selected table into an open document in the target application."
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "Copy images",
+      "refined_text": "Use the Select tool to copy and paste individual images from a PDF to the clipboard, another application, or a file. Open the Preferences dialog box if you cannot select an image because of overlapping text. Select Acrobat in the upper-left (macOS) or Menu in the upper-left (Windows), then select Preferences . Under Categories , Select General . Then select the Make Select tool select images before text ."
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 1,
+      "section_title": "1.  Using the Select tool , do one of the following:",
+      "refined_text": "• To select the entire image, select the image or drag a rectangle around it. • To select a portion of an image, hold the pointer over the image until the cross-"
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 2,
+      "section_title": "Export objects to separate PDF",
+      "refined_text": "Using the Edit Object tool, you can save objects into a separate PDF."
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 2,
+      "section_title": "3.  Right-click the selection, and choose Save Selection As .",
+      "refined_text": "4. In the Save As dialog, specify where you want to save the file, name the file, and then"
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "Take a snapshot of a page",
+      "refined_text": "You can use the Snapshot tool to copy all selected content (text, images, or both) to the clipboard or another application. Text and images are copied as an image. You can use two methods to take a snapshot: the Select or Snapshot tools. Using the Select"
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "more.",
+      "refined_text": "(macOS) Select Edit in the upper left. Then select Undo, Redo and More"
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "2.  Do one of the following:",
+      "refined_text": "• Select anywhere on the page to capture the entire content displayed on the screen. • Drag a rectangle around the text or images or a combination of both. • Drag a rectangle within an image to copy just a portion of the image. Colors in the selected area are inverted momentarily to highlight the selection. The selection is copied automatically to the clipboard when you release the mouse/touchpad button. If a document is open in another application, go to the document, right-click, and select Paste to paste the copied selection directly into the target document."
+    },
+    {
+      "document": "Learn Acrobat - Export_2.pdf",
+      "page_number": 3,
+      "section_title": "Note:",
+      "refined_text": "You can save all the images from a PDF. See Export images to another format . This feature isn’t available in Reader."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "refined_text": "Fill and Sign PDF Forms You can easily fill, sign, and share your documents using Acrobat's Fill & Sign tool. Types of PDF forms"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "Types of PDF forms",
+      "refined_text": "• Interactive forms : These contain fields that you can select and fill in. • Flat forms : These do not have interactive fields. It could be a paper form or PDF that hasn’t been optimized for form filling. The Fill & Sign tool automatically detects the form fields like text fields, comb fields, checkboxes, and radio buttons. You can manually add text and other symbols anywhere on the form using the Fill & Sign tool if required. You can complete the forms by entering information and adding your signatures. Acrobat also allows you to send your completed forms to others and securely save them in Adobe cloud storage."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "Fill and sign PDF forms",
+      "refined_text": "To complete and sign PDF forms, open the form in Acrobat and then select E-Sign from the global bar. Alternatively, you can select All tools > Fill & Sign . It displays the Fill & Sign tools in the left pane. You can now fill in the form fields and sign the form using the sign tools described in the following topics."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "To fill text fields:",
+      "refined_text": "1. From the left panel, select Fill in form fields , and then select the field where you want to add text. It displays a text field along with a toolbar."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 2,
+      "section_title": "2.  Select the text field again and enter your text.",
+      "refined_text": "3. To reposition the text box to align it with the text field, select the textbox and hover over it. Once you see a plus icon with arrows, move the textbox to the desired position. 4. To edit the text, select the text box. Once you see the cursor and keypad, edit the text"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 3,
+      "section_title": "Note:",
+      "refined_text": "Resize the first annotation you place to fit the check box or radio button in the document, and the next annotations you add will be of the same size and will fit the rest of the box/circle fields. 6. To change the text color, select the color from the quick toolbar and select a desired"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 5,
+      "section_title": "2.  Select the radio option field to enter the symbol.",
+      "refined_text": "3. To change the symbol, select the field again, and then from the menu, ellipsis ( ) and"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 5,
+      "section_title": "To add signature and initials:",
+      "refined_text": "1. Create your signature and initials if not already done. To do so:"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 5,
+      "section_title": "1.  From the Quick action toolbar, select Add your signature or initials",
+      "refined_text": "2. To add a signature, select Add signature . In the dialog that appears, type or"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 6,
+      "section_title": "draw your signature and then select Done .",
+      "refined_text": "3. To add your initials, select Add initials . In the dialog that appears, type or draw"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 6,
+      "section_title": "your initials and then select Done .",
+      "refined_text": "Note: You may also add an image as your signature or initials. To add an existing image, tap the image icon from the top menu. To take a new picture to be added as your signature, tap the camera icon and follow through with the workflow."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 6,
+      "section_title": "2.  To add a signature:",
+      "refined_text": "1. From the Quick actions toolbar, select Add your signature or initials . Select Add Signature ."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 6,
+      "section_title": "2.  Your signature appears in the field.",
+      "refined_text": "Note: Once you add a signature or initial to a form and save it, you cannot edit it again. 3. To adjust the placement of your signature, hover over the signature till you see"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 6,
+      "section_title": "a plus icon, and then click and move the signature as desired.",
+      "refined_text": "4. To adjust the size of your signature, hover over the blue circle at the corner and"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 6,
+      "section_title": "Caution:",
+      "refined_text": "Once you add a signature or an initial to a form and save it, you cannot edit it again."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 7,
+      "section_title": "3.  To add your initials:",
+      "refined_text": "1. From the Quick actions toolbar, select Add your signature or initials . Select Add Initials . Your initials appear in the field. 2. To adjust the placement of your signature, hover over it until you see a plus"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 7,
+      "section_title": "icon, and then click and move the signature as desired.",
+      "refined_text": "3. To adjust the size of your signature, hover over the blue circle at the corner and"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 7,
+      "section_title": "If you want to use an image as your signature or initials:",
+      "refined_text": "• Sign your name in black ink on a clean, blank sheet of white paper. Sign in the middle of the paper so you don't photograph or scan the edges. • Photograph or scan your signature. If you are taking a picture of your signature, make sure that the page is lit and that no shadows fall across the signature. • Transfer the photo or scan to your computer. Acrobat/Reader accepts JPG, JPEG, PNG, GIF, TIFF, TIF, and BMP files. You do not need to crop the image. Acrobat/Reader imports just the signature if the photo or scan is fairly clean."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "Is the form fillable?",
+      "refined_text": "Not all forms are fillable. Sometimes form creators don’t convert their PDFs to interactive fillable forms. Or, they intentionally design a form that you can fill in only by hand or with the Fill & Sign tool. These non-interactive forms are called flat forms."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 8,
+      "section_title": "An interactive form contains fields that you can select or fill in.",
+      "refined_text": "1. If necessary, select either the Hand Tool or the Select Tool from the context menu of"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 9,
+      "section_title": "Press Tab to move forward or Shift+Tab to move backward.",
+      "refined_text": "3. When finished, submit the form to either send the data to a server or create an email"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 10,
+      "section_title": "Auto-Complete forms (interactive forms only)",
+      "refined_text": "The Auto-Complete feature stores any entries that you type in an interactive form field. Auto- Complete then suggests or even automatically enters responses that match your typing in other form fields. The suggestions appear in a pop-up menu, from which you can select a match. The Auto-Complete feature is off by default, so you must enable it in the forms preferences if you want to use it. To remove an entry from the Auto-Complete memory, such as a misspelled entry that you found and corrected later, edit the list in the preferences."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 10,
+      "section_title": "3.  Under Auto-Complete , choose Basic or Advanced from the menu.",
+      "refined_text": "4. Select Remember Numerical Data if you want the Auto-Complete memory to store"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 10,
+      "section_title": "3.  Click Edit Entry List under Auto-Complete.",
+      "refined_text": "4. In the Auto-Complete Entry List dialog box, do one of the following, and then"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "Change flat forms to fillable (Acrobat Pro)",
+      "refined_text": "You can change a flat form to a fillable form by either using the Prepare Form tool or enabling the Fill & Sign tools. Acrobat and Acrobat Reader users can use the Fill & Sign tool to fill in flat forms."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "Interactive form",
+      "refined_text": "To create an interactive form, use the Prepare Forms tool. See Create a form from an existing document ."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 12,
+      "section_title": "Flat form",
+      "refined_text": "To enable the Fill & Sign tools, from the hamburger menu ( File menu in macOS) choose Save As Other > Acrobat Reader Extended PDF > Enable More Tools (includes Form Fill-in & Save) . The tools are enabled for the current form only. When you create a different form, redo this task to enable Acrobat Reader users to use the tools."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 13,
+      "section_title": "Save forms",
+      "refined_text": "• To save the completed form, choose Save As from the hamburger menu ( File > Save As in macOS) and rename the file. • To remove extended Acrobat Reader features, choose Save A Copy ( File > Save A Copy in macOS). • To allow Acrobat Reader users to save the data they typed, choose one of the following depending upon your operating system: Windows® : Save As Other > Acrobat Reader Extended PDF > Enable More Tools (Includes Form Fill-in & Save) macOS : File > Save As Other > Acrobat Reader Extended PDF > Enable More Tools (Includes Form Fill-in & Save) ."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 14,
+      "section_title": "2.  Choose an appropriate printer in the Print dialog box.",
+      "refined_text": "3. In the Comments And Forms menu, choose one of the following, and then select OK : • (Interactive or flat form) To print the form and the typed entries, choose Document . This option prints text that you’ve typed using the Add Text tool. • (Interactive or flat form) To print the form, the typed entries, and any comments on the form, choose Document And Markups . This option prints text that you’ve typed using the Add Text tool. • (Interactive form only) To print only the typed entries and not the form itself, choose Form Fields Only ."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 15,
+      "section_title": "Clear unsaved form entries",
+      "refined_text": "1. Choose Tools > Prepare a form . In the Fields side panel, choose Clear Form from the Options menu . You can sign a document to attest to its contents or approve the document. This document explains how to sign a document or agreement using Acrobat or Reader desktop application. To sign a PDF document or form, you can type, draw, or insert an image of your handwritten signature. You can also add text, such as your name, company, title, or date. When you save the document, the signature and text become part of the PDF."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 15,
+      "section_title": "or add an image of your signature and then select Done.",
+      "refined_text": "2. To add your initials, select Add initials. In the dialog that appears, type, draw, or"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 15,
+      "section_title": "3.  Select your signature.",
+      "refined_text": "4. The form fields are detected automatically. Hover the mouse over a field to display a blue box. Click anywhere in the blue box, the cursor will be placed at the right position automatically. Type your text to fill the field. To fill the PDF form with your desired color, from the Quick actions toolbar, select the Color icon and then select a color. By default, the signature color is black. To retain the default color of the signature, make sure the Keep signatures black option is unchecked. 5. If you've already added your signature or initials, just select it from the Sign options, and then click at the place in the PDF where you want to add your signature. Skip to the next step. If you are signing for the first time, you see the Signature or Initials panel. Below is an example of the Signature panel. 6. Select Apply , and then click on the place in the PDF where you want to place the"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 16,
+      "section_title": "If you want to use an image as your signature:",
+      "refined_text": "• Sign your name in black ink on a clean, blank sheet of white paper. Sign in the middle of the paper so you don't photograph or scan the edges. • Photograph or scan your signature. If you are taking a picture of your signature, make sure that the page is lit and that no shadows fall across the signature. • Transfer the photo or scan to your computer. Acrobat/Reader accepts JPG, JPEG, PNG, GIF, TIFF, TIF, and BMP files. You do not need to crop the image. Acrobat/Reader imports just the signature if the photo or scan is fairly clean."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 16,
+      "section_title": "Sign an agreement",
+      "refined_text": "If you receive an email request for a signature from someone using Adobe Acrobat Sign, you can access the agreement from the link in your email or through your Acrobat or Acrobat Reader desktop application. You will see a notification that an agreement has been shared with you for signing."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 16,
+      "section_title": "Sign using Acrobat/Reader desktop application",
+      "refined_text": "1. Go to Acrobat or Acrobat Reader Home and then from under Agreements ,"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 16,
+      "section_title": "select Adobe Acrobat Sign .",
+      "refined_text": "It takes you to the Adobe Acrobat Sign page where all the agreements shared or received for signature are displayed. 2. Double-click the agreement with the Waiting For You status, or select the"
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 16,
+      "section_title": "4.  Select the signature field and then select Apply .",
+      "refined_text": "Note: If you are signing for the first time, you see the Signature or Initials panel as shown below. • Type: Type your name in the field. You can choose from a small selection of signature styles; click Change Style to view a different style."
+    },
+    {
+      "document": "Learn Acrobat - Fill and Sign.pdf",
+      "page_number": 17,
+      "section_title": "3.  Select the signature field and then select Apply .",
+      "refined_text": "• Type: Type your name in the field. You can choose from a small selection of signature"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 2,
+      "section_title": "Introduction",
+      "refined_text": "Overview of generative AI features Use the generative AI features in Acrobat and Acrobat Reader to quickly scan through lengthy, complex PDF content and get answers or generate a summary. Note: The generative AI features in Acrobat and Acrobat Reader support English, French, German, Spanish, Italian, Portuguese, or Japanese. To understand the governing terms, review Adobe's Generative AI User Guidelines. To understand Adobe's data handling practices, see Content usage and handling practices. The AI-powered features in Acrobat and Acrobat Reader support multiple document types, including PDFs, DOCX, PPTX, TXT, and RTF files. AI Assistant supports Microsoft Teams and Zoom meeting transcripts. The capabilities improve comprehension and save time across various document types. AI Assistant quickly gets answers to your questions based on your documents in a comprehensive and informative way. It can analyze multiple documents to uncover similarities, differences, and key patterns. With AI Assistant, you can make targeted requests, such as highlighting the differences between PDF contracts. It links to text and data table sources within the document. It also suggests follow-up questions for you based on the primary question. AI Assistant uses the latest AI language model, GPT 4o, to provide more accurate and clear answers to your queries based on more citations. It can extract information accurately from tables and complex documents. Generative summary automatically provides an outline with headings and summaries to highlight key points in the document. The feature generates key insights that help you easily comprehend the PDF content. For a speedier response, it processes PDF content in chunks and simultaneously streams summaries. You can access the generative AI features in Adobe Acrobat Reader, Adobe Acrobat desktop on both Windows and macOS, on Acrobat online, and within Acrobat extensions for Google Chrome or Microsoft Edge. AI Assistant is also available on phones through Acrobat mobile apps (iOS and Android). It isn't available on iPad or Android tablets. Benefits of generative AI features The generative AI features in Acrobat and Acrobat Reader significantly improve comprehension, help you get insights, and produce high-quality content quickly. Here are the main benefits. - Improved comprehension: You can better understand complex PDF documents because the features provide insights and more context around the content. - Enhanced productivity : Work across multiple PDFs and documents in various formats, including Teams and Zoom meeting transcripts, streamlining your workflow and saving time for higher-priority tasks. - Impactful content : You can use the content suggestions that the features generate for impactful emails, presentations, meeting notes, and more. Turn off generative AI features The generative AI features in Acrobat and Acrobat Reader are turned on by default. However, you can choose to turn them off, if necessary. If you're an admin, you can revoke access to generative AI features for your team or org by contacting Adobe Customer Care. User Guidelines User Guidelines governing your access and use of Acrobat and Acrobat Reader generative AI features are found here. In addition, please always use your judgment to evaluate generated output and any source attributions. Acrobat and Acrobat Reader generative AI features are built upon powerful, emerging large language model technologies that may generate outputs that are inaccurate or misleading, or otherwise reflect content that does not represent Adobe’s views. This is especially true if you try to use these features to generate outputs that are unrelated to your source document. Do not use generative AI features to seek legal, medical, financial, or other kinds of professional advice or any opinions, judgments, or recommendations without conducting your own independent consultation or research. Generative AI features cannot replace advice provided by a qualified professional and do not form any such relationship (for example, an attorney-client relationship)."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 3,
+      "section_title": "Attributions",
+      "refined_text": "When the AI Assistant analyzes a document, it identifies sentences most likely to support the answer to your question. Attribution can take the form of clickable citations or other helpful cues indicating where generated information came from. However, because the AI Assistant is powered by generative AI models, and the technology is still evolving and not perfect, not all answers are helpful or accurate. As a result, the AI Assistant may not find and display answers to your questions — even when the information is in your document. And rarely, the AI Assistant may provide incorrect attributions. For example, you may receive a clickable citation or cue that takes you to an unrelated section instead of providing helpful information on where the answer came from in the document. Please double-check all AI-generated responses. Please note that in our current version, if the language of the question and response is different than the language of your document, AI Assistant won't provide any attribution. In such scenarios, you can try asking questions in the language of the document to receive clickable citations in the response."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 6,
+      "section_title": "What is chat history?",
+      "refined_text": "Acrobat now allows you to reference past conversations you had with AI Assistant. Chat history includes your textual prompts and generated responses for a specific document or a set of documents you selected, also termed a Collection."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 9,
+      "section_title": "Account and login  •  You’re online.",
+      "refined_text": "• Generative AI features are enabled."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 10,
+      "section_title": "Supported browsers  See Technical requirements for Acrobat on the web.",
+      "refined_text": "Get AI-generated answers AI Assistant supports scanned documents. You can scan your paper documents and upload them to Acrobat to get concise summaries and accurate answers to your questions. It also breaks down complex language into key details, making it easy to read and understand contracts directly in Acrobat. AI Assistant The AI Assistant feature provides AI-generated answers to your questions based on the content of the selected files. It also highlights the portion of content from where it fetches the answer for more context. The AI Assistant also suggests follow-up questions based on your"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 10,
+      "section_title": "To get started:",
+      "refined_text": "1. Open a PDF and select AI Assistant in the global bar. To select multiple files, go to Acrobat Home and choose Select files in the Recommended tools for you section,"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 11,
+      "section_title": "2.  Select Get started .",
+      "refined_text": "3. Select from the sample questions that are displayed based on the content of your PDF"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 11,
+      "section_title": "file. Alternatively, type your question in the message field.",
+      "refined_text": "4. The answer to your question is displayed. The relevant sources are marked with"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 13,
+      "section_title": "2.  If prompted, select Get started .",
+      "refined_text": "3. An overview of the document is generated with section headings and summaries. Selecting a summary takes you directly to the corresponding section in the document"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 13,
+      "section_title": "summary from the Options menu.",
+      "refined_text": "If you have questions about the document, scroll to the bottom, and select Ask AI"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 14,
+      "section_title": "Use generative AI features in meeting apps",
+      "refined_text": "You can harness the power of generative AI features in Acrobat to gain insights from transcripts of online meetings in Microsoft Teams and Zoom. Use the generative AI"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 15,
+      "section_title": "Prerequisites",
+      "refined_text": "To access meeting information in Microsoft Teams, your admin must first configure Adobe Acrobat as the default PDF viewer in Microsoft Teams. The admin must also allow a list of endpoints to integrate Teams with Acrobat and grant permissions for Adobe Acrobat to be the default app in Teams. After the admin accepts the permissions, you can integrate your Microsoft Teams account with Acrobat."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 15,
+      "section_title": "1.  In Acrobat Home, select Add meeting transcripts under Third-party apps .",
+      "refined_text": "2. Under the Microsoft Teams icon, select Sign in to Teams and enter your login"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 15,
+      "section_title": "View meeting details in Acrobat",
+      "refined_text": "You can access the list of meeting transcripts from Acrobat Home in Microsoft Teams. The list includes transcripts for meetings. Each meeting in the list includes information, such as meeting name, organizer, date, time, and duration. You can also filter meetings based on a date range."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 16,
+      "section_title": "Manually open meeting transcripts in Acrobat",
+      "refined_text": "You can also open any meeting transcript directly in the viewer and use Acrobat's generative AI features for insights or summaries. If you have the VTT transcript file, then convert it to a PDF and open it in Acrobat to access the AI tools. Know how to use generative AI features from Acrobat desktop and Acrobat online Home In Acrobat Home, under the Recommended tools for you section, you can now use the AI Assistant to interact with your documents. Choose Select files and select one or multiple files to start a conversation with your documents and extract insights. Select multiple files The Generative AI tools also appear one at a time next to the Recommended tools for you section of Acrobat Home. To start using a generative AI tool, select the respective call-to- action. Acrobat desktop In Acrobat online, the generative AI tools appear one at a time in the Explore what's new section of Acrobat Home. To start using a generative AI tool, select a file and then select the generative AI tool. Acrobat online Alternatively, in Acrobat Home, select All tools , then select AI Assistant or Generative summary tool. Acrobat Desktop Acrobat online"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 20,
+      "section_title": "2.  To provide detailed feedback, select Tell us more .",
+      "refined_text": "3. Choose from the options, or provide details in the text box. Then select Submit . When you provide feedback, you have the option to share your document, prompts, and generated responses during a document session for product improvement purposes. If you don't wish to share your content, uncheck the product improvement checkbox when you provide feedback for the first time on a document. Provide feedback for what worked well Provide feedback for what didn’t work well"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 21,
+      "section_title": "1.  For the provided response, select Report .",
+      "refined_text": "Report content 2. Choose from the options, or provide details in the text box. Then select Submit"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 26,
+      "section_title": "Using AI Assistant in Acrobat mobile",
+      "refined_text": "AI Assistant quickly provides comprehensive and informative answers to questions based on the PDF content. It links sources within the document and suggests follow-up questions based on the primary question."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 26,
+      "section_title": "To start using AI Assistant, perform the following steps:",
+      "refined_text": "1. Open the document you want to work on, and then select AI Assistant . Alternatively, you can also access AI Assistant from the contextual menu. Select the text for AI Assistant. The contextual menu opens, then select Ask AI Assistant . Get quick insights 2. Select Agree . 3. Enter your question in the message box. Alternatively, use voice commands to ask a question. It improves accessibility and user experience. You can also select from the suggested questions based on the content of your PDF file. To enter voice prompts, select . If prompted, allow Adobe Acrobat to access the microphone on your device. The voice assistant panel opens, displaying I'm listening, ask a question . Ask your questions. and wait until the response is generated. Enter your questions using the voice command 4. The answer to your question is displayed. The relevant sources are indicated with numbers. Do the following: • Select a number to navigate directly to the corresponding section of the document. • To hide the attributed sources within the document, select Hide sources from the Options menu. • While the AI Assistant generates the response, you can select Stop to pause the processing. • Move the drag handle up or down to resize the AI Assistant pane for better readability. • Review related questions that the AI Assistant suggests based on your primary query."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_1.pdf",
+      "page_number": 30,
+      "section_title": "Provide feedback for generated answers",
+      "refined_text": "Your feedback is essential for the AI Assistant to learn and develop better answers the next time you come with questions. To provide feedback:"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 1,
+      "section_title": "Note:",
+      "refined_text": "The option Enable generative AI features in Acrobat is displayed only if you previously opted in for the generative AI features."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 1,
+      "section_title": "Persistent chat history",
+      "refined_text": "You can access your conversation threads with Acrobat's AI Assistant across sessions. You can access the chat history whether your files are stored locally or in the cloud. The chat history includes a timeline to trace how your questions and answers evolved. You can also copy and save the entire chat history at a desired location. The copied chat history does not show the timeline of questions and generated answers. Access a document where you previously used the AI Assistant to generate responses to your queries. The document opens as before, with the full chat history and any associated follow- up questions. Chat history"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 3,
+      "section_title": "right.",
+      "refined_text": "2. Select Copy full chat . The chat gets copied, and you can paste it at your desired"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 3,
+      "section_title": "location.",
+      "refined_text": "Copy chat history from the AI assistant"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 4,
+      "section_title": "Read-aloud generated responses",
+      "refined_text": "Quickly review the generated responses using the read-aloud feature in Acrobat AI Assistant. The read-aloud feature helps you play the AI Assistant generated response or a part of it in your chat. You can select any sentence and play it. You can also choose to change the voice of the feature. To access the read-aloud feature: 1. Open the document you want to review. Select AI Assistant from the lower right and"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 4,
+      "section_title": "enter your query. A response is generated.",
+      "refined_text": "2. Select the speaker icon in the upper right to turn on the read-aloud feature. 3. Select the play button at the bottom of your screen. It starts to read aloud the last response visible on the screen. You can pause or resume the read-aloud feature using the same button. The words spoken get highlighted simultaneously to ensure you always have the context and no confusion. You can also select any sentence, and the read-aloud feature will play from the selected sentence."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 8,
+      "section_title": "Multiple document support in AI Assistant",
+      "refined_text": "GenAl Assistant allows users to process up to 10 documents simultaneously, including non- PDF formats (.doc, .docx, .rtf, .txt, .ppt, .pptx), each up to 600 pages and 100MB. Users can switch between documents, with responses consolidated from various sources and proper attributions. Persistent history support is also included to provide continuous access to previous interactions. 1. Open Acrobat and then open a document. Select AI Assistant. Select the add button from the lower left. It opens the Select files to use with AI Assistant. Select the files you want to add and select Next from the upper right. Alternatively, you can also use AI Assistant for multiple docs in the following ways: • Open Acrobat, and then select multiple files from the home view. Select the ellipsis from the top right and then select Ask AI Assistant . • Select multiple files from third-party applications, and select Share > Adobe Acrobat > Ask AI Assistant . • Open Acrobat, then select Try it now from the Try AI Assistant onboarding card in the home view. Then select the files you want to add and select Next from the upper right. 2. When the file is added, chat displays the number of files added. 3. You can enter your question or choose from suggested questions. You get generated responses. If you want to view the references of the generated responses, select the reference numbers next to the responses. AI Assistant opens the source file first and then shows you the references. 4. When you use the assistant with multiple files, a collection of those files is created and shown in the Recents tab. You can resume the assistant chat with those files. You can rename the collection of those files from the contextual bar (select the ellipsis next to the file name to open the context bar) in the home view."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 12,
+      "section_title": "Request access in Acrobat",
+      "refined_text": "If you're a Teams user, your administrator can turn on the option to request access to the AI Assistant for Acrobat in the app. After you submit the access request, you must wait for further review and approval by your admin before you're granted access. You can request access to the AI Assistant for Acrobat from the Acrobat desktop app, Acrobat on the web, Acrobat browser extension, and Acrobat for Microsoft Teams. 1. Launch Acrobat, and select Get access from the AI Assistant for Acrobat. Select Get access 2. In the Request access dialog, specify a business reason for requesting access to the AI"
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 12,
+      "section_title": "Assistant for Acrobat.",
+      "refined_text": "3. Select Send request . Your access request is submitted to the admin for review and approval. After the admin approves your request, you'll receive an email confirming that the AI Assistant for Acrobat is available. Note: To check the status of your request, select Refresh on the AI Assistant. For more information on requesting access to Adobe products and services, see Request access to an Adobe product and Manage product requests."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 12,
+      "section_title": "Request access from the Admin Console (Teams hybrid admins)",
+      "refined_text": "If you're an admin, you can purchase an AI Assistant for Acrobat add-on subscription through the Admin Console if your team members have consumed the free requests or require more licenses."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 13,
+      "section_title": "2.  From the AI Assistant for Acrobat, select Subscribe now .",
+      "refined_text": "3. In the dialog that appears, select Continue . If you have already purchased the AI Assistant for Acrobat add-on subscription, select the Assign a license link to assign licenses to users from the Admin Console. 4. You're redirected to the Add license page to purchase an AI Assistant for Acrobat add- on subscription. Specify your payment details, and then select Place secure order . Purchase licenses 5. Once your purchase is complete, you can assign licenses to users from the Add users to this product page. Your team members receive an email notification when the product is provisioned to their account. They can select the link to launch Acrobat to access AI Assistant for Acrobat."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 15,
+      "section_title": "Review the status of your request",
+      "refined_text": "When you submit a request, it can be approved or denied, or the review can be pending. • Approved requests: If your request is automatically or manually approved, the product license is provisioned to your Adobe account. You'll receive an email notifying you when the license is available. • Denied requests: If you submit your request for review and an administrator denies your request, you'll receive an email notifying you why the request was denied. Once denied, you can re-request the identical product from your organization using a more descriptive business reason. • Pending requests: After you submit a request for administrator review, it's awaiting approval and can remain in that state for up to 60 days. You receive an email notification at 30 days that the request is pending for review and again at 60 days when the request has expired. You cannot re-request a pending product."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 16,
+      "section_title": "Administer AI Assistant for enterprises",
+      "refined_text": "Adobe's AI Assistant for enterprises extends generative AI features to Acrobat on the web, mobile, and desktop platforms. It provides centralized license management and enterprise- level technical support for adequate user support at scale."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 17,
+      "section_title": "Before deploying, ensure the following requirements are met:",
+      "refined_text": "• Update Acrobat . Ensure Acrobat is up-to-date by following instructions in the Release Notes for Acrobat. Also, refer to the basic configuration settings."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 17,
+      "section_title": "•  Enable new Acrobat .",
+      "refined_text": "• Administrators : To turn on the new Acrobat for users, use the registry key mentioned in the Acrobat Enterprise Toolkit (ETK). • Users : Choose the hamburger menu (Windows) or View (macOS), then select Enable new Acrobat . For details, see how to enable the new experience."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 17,
+      "section_title": "•  PDF services for user profiles .",
+      "refined_text": "• Acrobat desktop and mobile : To use AI Assistant for Acrobat, you need not turn on PDF services in the Admin Console. • Acrobat online : Turn on PDF services for the product profile assigned to users. See how to turn on or turn off PDF services."
+    },
+    {
+      "document": "Learn Acrobat - Generative AI_2.pdf",
+      "page_number": 18,
+      "section_title": "License deployment",
+      "refined_text": "You can manage the deployment of Acrobat AI Assistant through the Adobe Admin Console. As an admin, you must add users to the Admin Console using one of the methods described in Adobe Admin Console users. You can choose to either select the users to assign or create product profiles and assign users to the profiles. For more information, see Packaging apps via the Admin Console. Once you assign AI Assistant for Acrobat, the users must restart Acrobat to see AI Assistant."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 2,
+      "section_title": "Send a document to get signatures from others",
+      "refined_text": "1. Open the PDF form in Acrobat or Acrobat Reader, and then choose All tools > Request E-signatures . Alternatively, you can select Sign from the top toolbar. 2. The Request Signatures window is displayed. It displays the fields progressively as you enter the details. The left pane provides information on getting signatures from others workflow. In the recipients field, add recipient email addresses in the order you want the document to be signed."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 2,
+      "section_title": "Request signatures – Add recipients",
+      "refined_text": "3. The Mail and Message fields are just like the ones you use for sending an email and appear to your recipients in the same way. Change the default text in the Subject & Message area as appropriate. Optional: If you want to add more people just for information, use the Add CC button to add their email addresses to the CC list."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 2,
+      "section_title": "Enter the desired information and do one of the following:",
+      "refined_text": "• (Optional) To explore advanced options including signer authentication, reminders, and more, click More Options . • To add form fields and specify where to sign, click Specify where to sign ."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 3,
+      "section_title": "Request signatures – Add Cc, subject, message, More Options",
+      "refined_text": "• If you don't want to use the More Options , skip the next optional step. 4. (Optional) Click More Options , if you want to specify advanced options, such as signer"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 3,
+      "section_title": "authentication, reminders, and more.",
+      "refined_text": "• By default, the Complete in Order setting is turned on. The numbers by the email addresses reflect the participation order. If you do not want to follow any particular order for signing, toggle the switch to Complete In Any Order . (Optional) Click Add Me, if you want to be included as a signer of the document. • Specify authentication type like Email , Password , Social Identity , Knowledge- Based Authentication , Phone, or Acrobat Sign ."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 4,
+      "section_title": "More or Advanced Options",
+      "refined_text": "5. The Specify Where to Fill & Sign window is displayed showing options based on"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 4,
+      "section_title": "whether you have added one signer or multiple signers.",
+      "refined_text": "• Simplified mode for single signer If you've added one signer, the Advanced Editing mode is off, and you see the simplified option as shown below. To place a signature or another field, click at the desired location in the document and then set the field's properties from its context menu. • Simplified mode for multiple signers This mode provides simplified authoring with the capability of assigning fields to multiple signers. When you select a signer from the right pane and add fields in the form, the fields are assigned to the signer. That means those fields will be available to the signer for filling the information and signing the form. • You can switch the assignee of any field using the floating toolbar. The assigned colors to the signers make it easy to distinguish the fields for respective signers. • Advanced mode for multiple signers If you've added multiple signers, you see the options as shown below. Click the button to place the detected form fields in the PDF document. Alternatively, drag fields from the tabs in the right pane and drop the fields where desired in the document. Note: You can switch between simplified mode and advanced mode for multiple signers. To switch mode, turn off the Advanced Editing switch in the right-pane. 6. When you've placed all desired fields in the document, click Send . The document is"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 6,
+      "section_title": "sent for signature to the recipients and a confirmation notice is displayed.",
+      "refined_text": "You receive an email from Acrobat Sign stating that the agreements have been sent to the first signer for signature. The first signer also receives an email with a link to sign the agreement. When the signer adds his or her signature in the signature field and then clicks the Click to sign button, the agreement is sent to the next signer with a link to sign, and so on. Once the agreement is signed by all the signers, everyone gets a copy of the signed agreement. All your signed documents are kept at one place and you can access them from anywhere."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 8,
+      "section_title": "Signer's experience",
+      "refined_text": "A signer receives an email with a link to sign the agreement. Also, if the signer uses Acrobat or Acrobat Reader desktop application, the signer sees a notification that an agreement has been shared for signing. Note: Signers are not required to sign up or purchase any Adobe product to sign agreements. They can sign agreements using a web browser, mobile device, or Acrobat / Acrobat Reader desktop application. Send in bulk allows you to upload a form and use that as a template to create and send many (hundreds!) of unique agreements, each dedicated to one external signer. Each agreement is insulated from the others and contains its own audit report. Each recipient is unaware of all other recipients. The sender has access to the agreements through their Home or Documents tab or through the Send in bulk template, which contains an Agreements report that tracks the overall status of the child agreements created from the template. Additionally, the sender can export the field-level data of all completed agreements in a CSV format using the Download Form Field Data action. To access the Send in bulk feature, do one of the following: • In the Acrobat desktop app, go to the Tools center , scroll down to the E-Sign section, and then select Send in bulk . • Sign in to Acrobat online , select the E-Sign menu in the top navigation bar, and then select Send in bulk ."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 9,
+      "section_title": "2.  Add a file :",
+      "refined_text": "Upload (by search or drag-and-drop) the primary file that you are using to build your agreement template. The selector on the right of the Select a file button allows you to choose from the source where the file resides. The default is your local system."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 10,
+      "section_title": "•  The Sign action is assigned by default.",
+      "refined_text": "• The Sign action allows the participant to enter field data and sign the agreement. • Up to 50 participants are supported. • Each participant listed receives their own agreement. 2. Enter recipient email addresses followed by commas, or copy and paste a list of email addresses into the Email field. 3. Configure participant authentication by clicking the key icon to the right of the participant. • Email is the default authentication method for confirming the identity of each participant and is sufficient to obtain a legal signature in most cases. Password authentication can be added to increase security. When configured, the participant must enter the password before they can interact with the agreement."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 10,
+      "section_title": "•  Click Add me to add yourself as a counter signer.",
+      "refined_text": "• Click Add cc to add people you want to be copied when the agreement is sent and complete."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 11,
+      "section_title": "Upload any additional file(s) that you require.",
+      "refined_text": "• Multiple files can be uploaded. • All files uploaded are concatenated into one file for the final agreement. • The order the files are listed dictates how the final agreement will look. • You can click and drag the files to sort them. • You must share this password with the participants out-of-band."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 12,
+      "section_title": "6.  Add Agreement Details:",
+      "refined_text": "• Name your agreement. All agreements generated from the Send in bulk template will have the same agreement name."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 12,
+      "section_title": "7.  Edit the Agreement settings (Optional):",
+      "refined_text": "By default, agreements do not require a password to view the completed agreement, nor do they have reminders set for participants • Select Add access password if you require recipients to enter a password to open and view the signed PDF file. • Select Set Reminder to set the frequency of reminders to be sent until the agreement is completed."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 14,
+      "section_title": "9.  Prepare the Agreement and Add Fields:",
+      "refined_text": "You can now add any necessary fields to the agreement. Remember that a Signature field must be placed for each signer (including internal counter-singers)."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 16,
+      "section_title": "There are three options to progress from the post-sending page:",
+      "refined_text": "• Manage agreements - Opens the Bulk Sends page with all your agreements: track status, access audit trails, send reminder • Send another document in bulk - Prepare another document to send to many people"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 17,
+      "section_title": "1.  Navigate to the Documents tab.",
+      "refined_text": "2. Select Bulk Sends in the list of Your documents on the left side of the window. 3. Single-click the Bulk Send you to want to access, opening the context menu on the right side of the window. The context menu on the right side contains five distinct sections: • Metadata (red square): At the top of the menu is the metadata for the Bulk Send template: • Image of the Bulk Sends' first page • The title of the Bulk Send • The date the Bulk Send was sent to the participants • The email value of the userID that created the Bulk Send • The current status of the whole Bulk Send"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 17,
+      "section_title": "•  The Message provided in the initial email",
+      "refined_text": "• Any CCd parties (listed by email value) • Actions menu (blue square) - This section contains all of the actions you can take regarding the Bulk Send (parent template). Click the See More link at the bottom right of the section to see all values: • Open Bulk Send - Opens the Bulk Send template document for viewing only. No fields are available • Reminders – Add a reminder for yourself or everyone else who still needs to sign."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 19,
+      "section_title": "•  View Activity Report",
+      "refined_text": "• View the current status of all child agreements created by the Bulk Send parent template. • Add Notes - Allows the user to make personal notes for the Bulk Send. • Agreements summary/filter (green square) - The Agreements section shows up to five values that reflect the number of child agreements in each status. If no child agreements are in a given status, the status is not exposed, so you may see fewer than five line items. Clicking any one status will produce a filter list of those child agreements: • All - Shows all (child) agreements that have spawned from the Bulk Send (parent template). • In Progress - Indicates that the child agreement is waiting for the participant to complete their signature. • Canceled - Indicates that either the sender explicitly canceled the child agreement, or the participant declined to sign. • Completed - Completed agreements have successfully obtained all signatures from all participants on the agreement. • Waiting for You - Indicates that the agreement is waiting for the sender to countersign the agreement. • Activity for the Bulk Send parent template (orange square) - The Activity > link at the bottom of the context panel opens a chronological list of the enablement actions taken against the (parent) Bulk Send template (eg: Creation , Completed events). Adobe Acrobat supports a range of solutions for electronic and digital signatures . These solutions include certificate signatures that let you sign PDF files with a certificate-based digital ID. Certificate signatures are also known as digital signatures. Acrobat lets you create your certificate ID. However, the common approach is to work with a certificate ID from a trusted third-party certificate authority. Additional signing options in Acrobat include integration with Adobe Acrobat Sign ."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 20,
+      "section_title": "What can I do with certificate IDs?",
+      "refined_text": "Once certificate-based digital IDs have been provided to end users, they can use Acrobat or Acrobat Reader software to sign PDF files and validate files they receive from others."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 20,
+      "section_title": "Sign documents",
+      "refined_text": "• Sign PDF files using certificate IDs • Place a signature box anywhere on the page • Add multiple signatures to a page • Add a time stamp to the document when working with a configured timestamp server • Certify a document with a visible or hidden signature so that recipients can verify authenticity with or without seeing a visible signature on the page • Automatically embed certificate data to support long-term validation"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 20,
+      "section_title": "Validate documents",
+      "refined_text": "• Validate all signatures, confirming the identity of everyone who signed the document • Validate document integrity by tracking all previously signed versions of a document to verify changes made during the document’s lifecycle"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 21,
+      "section_title": "Set privileges and permissions for others",
+      "refined_text": "• Certify a document while leaving portions of it available for form filling , signatures, or comments • Use Acrobat Pro software to enable users of Reader 9 or later to sign with certificate IDs • Use Acrobat Standard or Pro to encrypt a PDF document with a certificate ID to restrict usage such as printing, editing, or copying What if my organization isn’t prepared to set up certificate- based signatures? Consider signing up for Adobe Acrobat Sign online, the leader in e-signatures and web contracting. With Acrobat Sign, you can get PDF, Microsoft Word, and other documents sent, signed, and filed instantly. And best of all, Adobe hosts it securely, so your IT department doesn’t have to do the work of setting up a signature infrastructure."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 21,
+      "section_title": "Resources",
+      "refined_text": "Adobe Approved Trust List (AATL) : The Adobe Approved Trust List is a program that allows millions of users worldwide to create digital signatures that are trusted whenever the signed document is opened in Acrobat or Reader software. Check out the current members . Adobe Security and Privacy Portal : A good first stop for all things security and privacy at Adobe. Certified Document Services : Certified Document Services (CDS) was the predecessor to the AATL."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 21,
+      "section_title": "Managing Digital IDs : Help pages for digital ID management.",
+      "refined_text": "A certificate-based signature , like a conventional handwritten signature, identifies the person signing a document. Unlike a handwritten signature, a certificate-based signature is difficult to forge because it contains encrypted information that is unique to the signer. It can be easily verified and informs recipients whether the document was modified after the signer initially signed it. To sign a document with a certificate-based signature, you must obtain a digital ID or create a self-signed digital ID in Acrobat or Acrobat Reader . The digital ID contains a private key and a certificate with a public key, and more. The private key is used to create the certificate-based signature. The certificate is a credential that is automatically applied to the signed document. The signature is verified when recipients open the document. When you apply a certificate-based signature, Acrobat uses a hashing algorithm to generate a message digest, which it encrypts using your private key. Acrobat embeds the encrypted message digest in the PDF, certificate details, signature image, and a document version when signed. Certificate-based signature in a PDF form Steps to add a certificate-based signature to a PDF 1. Open a PDF in Acrobat and choose All Tools > more > Use a certificate in the"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 22,
+      "section_title": "2.  The Use a certificate tool is open on the left pane.",
+      "refined_text": "• Select Certify (visible signatures) to certify with a visible digital signature, and then select Drag New Signature Rectangle in the dialog box that appears. • Select Certify (invisible signatures) if you want to certify the document without a visible signature."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 22,
+      "section_title": "3.  Select OK in the Save as Certified Document dialog box.",
+      "refined_text": "4. If you've selected, Certify (visible signatures) in step 2, use the mouse to drag and draw"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 23,
+      "section_title": "a rectangle area where you want your signature to appear.",
+      "refined_text": "5. In the Sign with a Digital ID dialog box, choose the Digital ID you want to use for certifying the document and select Continue , or select Configure New Digital ID to create a new ID. 6. Select Review to review the document content before signing, then select Sign. Save"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 23,
+      "section_title": "Certifying and signing documents",
+      "refined_text": "The Use a certificate tool lets you apply two types of certificate-based signatures. You can Certify a document, attest to its content or approve a document with the Digitally sign option."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 23,
+      "section_title": "Digitally sign",
+      "refined_text": "When you Digitally sign with a certificate, the signature is considered an approval signature."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 23,
+      "section_title": "Certify (visible or invisible signatures)",
+      "refined_text": "Certify options provide a higher level of document control than Digitally sign . For documents that require certification, you must certify the documents before others sign them. If a document has already been signed, the Certify options are disabled. When you certify a document, you can control the types of changes other people can make. You can certify with or without displaying a signature. Signatures made with the Certify or Digitally sign options comply with data protection standards specified by the European Telecommunications Standards Institute (ETSI). In addition, both signature types comply with the PDF Advanced Electronic Signature (PAdES) standard. Acrobat and Acrobat Reader provide an option to change the default signing format to a CAdES format. This option is compliant with Part 3 of the PAdES standard. The timestamp capability and native support for long-term validation of signatures (introduced in Acrobat 9.1) is in compliance with Part 4 of the PAdES standard. The default signing format, when set up accordingly, is compliant with Part 2 of the PAdES standard. You can change the default signing method or format, in the Signatures panel of the Preferences dialog box. Under Creation & Appearance, click More."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 24,
+      "section_title": "Setting up certificate-based signatures",
+      "refined_text": "You can expedite the signing process and optimize your results by making the following preparations in advance."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 25,
+      "section_title": "Customizing signature workflows using seed values",
+      "refined_text": "Seed values offer additional control to document authors by letting them specify which choices signers can make when signing a document. By applying seed values to signature fields in unsigned PDFs, authors can customize options and automate tasks. They can also specify signature requirements for items such as certificates and timestamp servers. For more information about customizing signatures using seed values, see the Digital Signature Guide ."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 25,
+      "section_title": "Create the appearance of a certificate-based signature",
+      "refined_text": "You determine the look of your certificate-based signature by selecting options in the Signatures panel of the Preferences dialog box. For example, you can include an image of your handwritten signature, a company logo, or a photograph. You can also create different signatures for different purposes. For some, you can provide a greater level of detail. A signature can also include information that helps others verify your signature , such as the reason for signing, contact information, and more. 1. (Optional) If you want to include an image of your handwritten signature in the certificate-based signature, scan your signature, and save it as an image file. Place the image in a document by itself, and convert the document to PDF. 2. Right-click the signature field, and select Sign Document or Certify with Visible"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 26,
+      "section_title": "8.  (Optional) If the dialog box includes the Additional Signature Information section,",
+      "refined_text": "specify the reason for signing the document, the location, and your contact information. These options are available only if you set them as your preferences in the Creation and Appearance Preferences dialog box (Preferences > Signatures > Creation & Appearance > More)."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 27,
+      "section_title": "3.  For Identities & Trusted Certificates , select More .",
+      "refined_text": "4. Expand Digital IDs on the left, select Roaming ID Accounts , and select Add"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_1.pdf",
+      "page_number": 27,
+      "section_title": "Store certificates on directory servers",
+      "refined_text": "Directory servers are commonly used as centralized repositories of identities within an organization. The server acts as an ideal location to store user certificates in enterprises that use certificate encryption. Directory servers let you locate certificates from network servers, including Lightweight Directory Access Protocol (LDAP) servers. After you locate a certificate, you can add it to your list of trusted identities so that you don’t have to look it up again. By developing a storage area for trusted certificates, you or a member of your workgroup can facilitate the use of encryption in the workgroup."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 1,
+      "section_title": "Adobe LiveCycle Rights Management (ALCRM) servers",
+      "refined_text": "Adobe LiveCycleRights Management (ALCRM) servers let you define centralized policies to control access to documents. The policies are stored on the ALCRM server. You require server access to use them. ALCRM servers embed user access information in documents. Therefore, specify document recipients in ALCRM policies. Alternatively, let the ALCRM server retrieve the list of recipients from LDAP directories. Use ALCRM servers to set permissions for separate document tasks, for example opening, editing, and printing. You can also define document auditing policies on ALCRM servers."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 1,
+      "section_title": "What is a digital signature?",
+      "refined_text": "Digital signatures are a secure and efficient way to electronically sign and authenticate documents, ensuring their authenticity and integrity. By using digital signatures, you can sign documents quickly and easily, and be confident that they can’t be tampered with or forged."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 1,
+      "section_title": "Why validate a digital signature?",
+      "refined_text": "When you receive a signed document, you may want to validate its signature to verify the signer and the signed content. Depending on how you’ve configured your application, validation may occur automatically. Signature validity is determined by checking the authenticity of the signature’s digital ID certificate status and document integrity. To verify authenticity, the validator checks if the signer's certificate or its parent certificates are trusted. The validity of the signing certificate is also checked based on the user's Acrobat or Acrobat Reader settings. To verify document integrity, the validator checks if the signed content was altered after signing. If changes were made, the verification ensures that the signer allowed the changes."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 2,
+      "section_title": "Set preferences for validating digital signatures",
+      "refined_text": "You can set verification preferences in advance so digital signatures are valid when you open a PDF and verification details appear with the signature. When Digital Signatures are validated, an icon appears in the document message bar to indicate the signature status. 1. Select the hamburger menu (Windows®), or go to Acrobat (macOS)> Preferences ."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 2,
+      "section_title": "3.  From the Verification box in the Digital Signatures panel, select More...",
+      "refined_text": "4. In the 'Signature Verification Preferences' dialog that opens, you can control the"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 3,
+      "section_title": "following settings:",
+      "refined_text": "• Set automatic validation of signatures : With the Verify signatures when the document is opened check box selected, Acrobat automatically validates all signatures in a PDF when you open the document. • Set verification behavior: The options specify methods that determine which plug-in to choose when verifying a signature. The appropriate plug-in is often selected automatically. Contact your system administrator about specific plug-in requirements for validating signatures. • Check the revocation status of certificates : With the Require certificate revocation checking to succeed... checkbox selected, Acrobat checks certificates against a list of excluded certificates during validation. If you deselect the check box, the revocation status for Acrobat Approval"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 4,
+      "section_title": "Set the trust level of a certificate",
+      "refined_text": "In Acrobat or Acrobat Reader, the signature of a certified or signed document is valid if you and the signer have a trust relationship. The trust level of the certificate indicates the actions for which you trust the signer. You can change the trust settings of certificates to allow specific actions. For example, you can change the settings to enable the dynamic content and embedded JavaScript™ within the certified document."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 4,
+      "section_title": "3.  From the left panel, select Trusted Certificates .",
+      "refined_text": "4. Select a certificate from the list and then select Edit Trust . 5. In the Edit Certificate Trust dialog that opens, select any of the following items to"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 5,
+      "section_title": "trust the certificate:",
+      "refined_text": "• Use this certificate as a trusted root : A root certificate is an originating authority in a chain of certificate authorities that issued the certificate. By trusting the root certificate, you trust all certificates issued by that certificate authority. • Signed documents or data : It a cknowledges the identity of the signer. • Certified documents : It t rusts documents in which the author has certified the document with a signature. You trust the signer for certifying documents, and you accept actions that the certified document takes. When the 'Certified documents' option is selected, the following options are available: • Dynamic content : It a llows movies, sound, and other dynamic elements to play in a certified document. • Embedded high privilege JavaScript™ : It a llows privileged JavaScript™ embedded in PDF files to run. JavaScript™ files can be used in malicious ways. It’s prudent to select this option only when necessary on certificates you trust. • Privileged system operations : It a llows Internet connections, cross- domain scripting, silent printing, external-object references, and import/export methodology operations on certified documents. Note: Allow Embedded high privilege JavaScript™ and Privileged system operations only for sources that you trust and work closely with. For example, use these options for your employer or service provider. 6. Select OK . Note: You can right-click a signature field in the Signatures panel to do most signature- related tasks, including adding, clearing, and validating signatures. In some cases, however, the signature field becomes locked after you sign it. Sign in preview mode for document integrity When document integrity is critical for your signature workflow, you can enable 'View documents in Preview mode', and then sign the document. This feature analyzes the document for content that may alter the look and feel of the document and suppresses such content to allow you to view and sign the document in a static and secure state. By signing in preview mode, you can f ind if the document contains:"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 6,
+      "section_title": "•  Any dynamic content or external dependencies.",
+      "refined_text": "• Any constructs such as form fields, multimedia, or JavaScript™ that may affect its look and feel. After reviewing the report, you can contact the author of the document about the problems listed in the report."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 6,
+      "section_title": "Certify a PDF",
+      "refined_text": "Certifying a PDF means approving its contents and specifying what changes are allowed for the document to remain certified. For example, a government agency creates a form with signature fields and certifies it, allowing users to only change form fields and sign the document. Removing pages or adding comments will result in losing the certified status. A certifying signature can only be applied if the PDF has no other signatures. These signatures can be visible or invisible, and a blue ribbon icon in the Signatures panel confirms a valid certifying signature. Adding a certifying digital signature requires a digital ID."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 6,
+      "section_title": "Timestamp a document",
+      "refined_text": "Acrobat allows users to add a document timestamp to a PDF without needing an identity- based signature. To timestamp a PDF, a timestamp server is needed. See how to configure a timestamp server . A timestamp guarantees the authenticity and existence of a document at a specific time and complies with ETSI 102 778 PDF Advanced Electronic Signatures (PAdES) standard."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 6,
+      "section_title": "Validate a digital signature",
+      "refined_text": "If the signature status is unknown or unverified, manually validate it to identify the issue and find a potential solution. In case the signature status is invalid, you must contact the signer to resolve the issue."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 8,
+      "section_title": "Validate all digital signatures",
+      "refined_text": "1. Open the PDF for which you want to validate all digital signatures."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 8,
+      "section_title": "Trust a signer’s certificate",
+      "refined_text": "To trust a certificate, it must be added to the user's trusted identity list in the Trusted Identity Manager. Also, its trust level must be set manually. End users can exchange certificates or add them directly from signed documents and set their trust levels. However, enterprises may require employees to validate signatures without any manual intervention. Acrobat trusts all certificates that are signed and certified by a trust anchor. Therefore, administrators can preconfigure client installations or allow end users to add a trust anchor."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 9,
+      "section_title": "Digitally sign on attachments to component PDFs",
+      "refined_text": "You can add signatures to attachments before signing the cover sheet. To do so:"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 9,
+      "section_title": "document message bar and signatures pane.   View signed and certified PDF Portfolios",
+      "refined_text": "A properly signed or certified PDF Portfolio has one or more signatures that approve or certify the PDF Portfolio. The most significant signature appears in a Signature badge in the toolbar. Details of all signatures appear on the cover sheet. • To view the name of the organization or person that signed the PDF Portfolio, hover the pointer over the Signature Badge. • To view details about the signature that appears on the Signature Badge, click the Signature Badge. The cover sheet and the Signatures pane on the left are open with details. If the PDF Portfolio approval or certification is invalid or has a problem, the Signature Badge shows a warning icon. To view an explanation of the problem, hover the pointer over a Signature Badge with a warning icon. Different warning icons appear for different situations. For a list and explanation of each warning, see the DigSig Admin Guide ."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 10,
+      "section_title": "XML data signatures",
+      "refined_text": "Acrobat and Acrobat Reader support XML data signatures that are used to sign data in XML Forms Architectures (XFA) forms. The form author provides XML signing, validating, or clearing instructions for form events, such as button click, file save, or submit. XML data signatures conform to the W3C XML-Signature standard. Like PDF digital signatures, XML digital signatures ensure integrity, authentication, and non-repudiation in documents. However, PDF signatures have multiple data verification states. Some states are called when a user alters the PDF-signed content. In contrast, XML signatures only have two data verification states, valid and invalid. The invalid state is called when a user alters the XML-signed content."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 10,
+      "section_title": "Establish long-term signature validation",
+      "refined_text": "Long-term signature validation allows you to verify the signature's validity long after the document was signed. To achieve this, all the necessary elements for signature validation must be embedded in the signed PDF. These elements can be embedded during the document signing process or added afterward. If certain information is not included in the PDF, the signature can only be validated for a limited time because certificates related to the signature eventually expire or are revoked. When a certificate expires, the issuing authority is no longer responsible for providing revocation status, rendering the signature unverifiable. The necessary elements for signature validity include the signing certificate chain, certificate revocation status, and possibly a timestamp. If these elements are embedded during signing, the signature can be validated without requiring external resources. Acrobat and Acrobat Reader can embed the necessary elements if available, and the PDF creator must enable usage rights for Acrobat Reader users by going to the hamburger menu (Windows) or the Acrobat menu (macOS) > Save as other > Acrobat Reader extended PDF . Note: Embedding timestamp information requires an appropriately configured timestamp server. In addition, the signature validation time must be set to Secure Time by navigating to Preferences > Security > Advanced Preferences > Verification tab. CDS certificates can add verification information, such as revocation and timestamp into the document without requiring any configuration from the signer. However, the signer must be online to fetch the appropriate information."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 11,
+      "section_title": "1.  Ensure that your computer can connect to the appropriate network resources.",
+      "refined_text": "2. Go to Preferences > Signatures > Creation & Appearances : More and make sure that"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 11,
+      "section_title": "Add verification information after signing",
+      "refined_text": "In certain workflows, signature validation information may be unavailable during the signing but can be obtained later. For instance, a company official may sign a contract on a laptop while traveling without internet access. When internet access is later available, anyone validating the signature can add timestamping and revocation information to the PDF. Subsequent signature validations can also make use of this information."
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 11,
+      "section_title": "To add verification information after signing:",
+      "refined_text": "1. Ensure that your computer can connect to the appropriate network resources, and"
+    },
+    {
+      "document": "Learn Acrobat - Request e-signatures_2.pdf",
+      "page_number": 11,
+      "section_title": "2.  Select Add Verification Information .",
+      "refined_text": "Information and methods used to include this long-term validation (LTV) information in the PDF comply with Part 4 of the ETSI 102 778 PDF Advanced Electronic Signatures (PAdES) standard. The command is unavailable if the signature is invalid, or is signed with a self-signed certificate. The command is also unavailable in case the verification time equals the current time."
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 2,
+      "section_title": "Introduction",
+      "refined_text": "Share You can quickly share a link to a PDF document with others for viewing or commenting. The document shared as a link opens in any browser on any device. The document is stored securely in Adobe cloud storage. Recipients get an email with a link, and they can click the link to view and comment on the document in a browser; no sign-in is required. 1. Open a PDF in Acrobat or Acrobat Reader and select Share in the upper-right corner. 2. (Optional) Select Link Setting and ensure that People can comment toggle is on."
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 2,
+      "section_title": "3.  Select the appropriate option to share the PDF:",
+      "refined_text": "• Enter the recipient's name or email and select Invite . You can add a message"
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 2,
+      "section_title": "and a deadline.",
+      "refined_text": "• Select any third-party App and follow the onscreen instructions. • Select Create a link to share and share copied link with recipients. • Select Send a link or attach this file to an email and follow the onscreen"
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 2,
+      "section_title": "PDF sharing options",
+      "refined_text": "• Add name or email to invite - Enter the name or email of the recipient. If necessary,"
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 2,
+      "section_title": "add a message, or Add deadline, and select Invite.",
+      "refined_text": "Add name or email to invite • Create a link and share using third-party apps. When you select any available third-"
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 3,
+      "section_title": "then copy and share it with the intended recipients.",
+      "refined_text": "Share a link to the file"
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 4,
+      "section_title": "Send an anonymous or public link in an email",
+      "refined_text": "An anonymous or public link makes the files accessible to anyone who clicks the link. Follow the steps below to create a review link, and share it using your email client."
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 4,
+      "section_title": "1.  Open the PDF in Acrobat.",
+      "refined_text": "2. Select Share in the upper right. You get either of the two options: • Get link : You get this option when a file isn't synced to the cloud. Select Get link to sync the file to the cloud. Once the file is synced, the get link option changes to Copy link . Select Copy link and share it as desired. • Copy link: You get this option if the file is already synced to the cloud or shared with someone. 3. By default, the People can comment switch is turned on. To share the file only for viewing, select Anyone can access and comment in the Share dialog box, and then"
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 5,
+      "section_title": "also perform any of the following actions from the right pane:",
+      "refined_text": "• Add People: Select Share , then enter the email addresses of the people you"
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 6,
+      "section_title": "the file with others.",
+      "refined_text": "Mark up text You can use markup tools to give suggestions for formatting the text, structuring a document, or for providing other edit suggestions. Markups and comments don’t change the actual text in the PDF. Note: The Insert text and Replace selected text commenting tools are now available for shared PDF files, making it easier for you to suggest changes and provide feedback directly within the document."
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 7,
+      "section_title": "Highlight, strikethrough, or underline text comment",
+      "refined_text": "You can use the Select text or Markup tools to add markups to your text."
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 7,
+      "section_title": "1.  Open a PDF.",
+      "refined_text": "2. Use the Select text tool to select the text you want to mark up. 3. From the markup toolbar that appears, take one of the following actions as desired:"
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 7,
+      "section_title": "1.  Open a PDF.",
+      "refined_text": "2. From the Quick actions toolbar, select the Highlight text tool and then move the"
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 7,
+      "section_title": "cursor over the text that you want to highlight.",
+      "refined_text": "3. With the Highlight tool selected, you can highlight multiple sections of text by just"
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 9,
+      "section_title": "Insert text",
+      "refined_text": "1. From the Quick actions toolbar, expand the Comments tool menu and then"
+    },
+    {
+      "document": "Learn Acrobat - Share_1.pdf",
+      "page_number": 9,
+      "section_title": "select Insert text .",
+      "refined_text": "2. Click between the words or characters where you want to insert text."
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 1,
+      "section_title": "Add comments while viewing a PDF document",
+      "refined_text": "You can now use quick actions in a floating toolbar to add comments while viewing a PDF. The following quick actions are available for commenting based on your selection in a PDF: • Actions on text selection : When you select text, you can perform actions like Highlight text, Underline text, Strikethrough text, Redact text, Copy text, and Edit a PDF. • Actions on image selection: When you select an image you can perform actions like Add sticky note, Highlight image, Redact image, Copy Image, and Edit a PDF. • Actions on highlighted selection: When you select an existing highlighted comment in a PDF you see quick actions to Add Note, Change Color, or Delete the comment."
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 2,
+      "section_title": "Annotations and drawing markup tools overview",
+      "refined_text": "Note: In Acrobat Reader, complete commenting tools are available only in PDFs with commenting enabled. You can use annotation and drawing markup tools to add comments. Comments are notes and drawings that communicate ideas or provide feedback for PDFs. You can type a text message using the Add text comment tool. Alternatively, you can use a drawing tool to add a line, circle, or other shape and then type a message in the associated pop-up note. Text- editing tools let you add editing marks to indicate changes that you want in the source document."
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 2,
+      "section_title": "Note:",
+      "refined_text": "In Acrobat Pro, you can add tags to your comments so that readers with motion or vision limitations can read them using assistive technologies."
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 2,
+      "section_title": "Show annotations and drawing markup tools",
+      "refined_text": "Annotations and markup tools don’t appear by default, except when you open a PDF in a managed review workflow. 1. Choose the Comments icon on the right pane to see the added comments. Comment pane 2. The drawing markup tools are grouped under the Draw freehand tool in the floating"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 3,
+      "section_title": "Drawing Tools menu  Select an annotation or drawing markup tool",
+      "refined_text": "From the quick tools menu on the left, select the desired annotation to add to the PDF. Note: After you make an initial comment, the tool changes back to the Select tool so that you can move, resize, or edit your comment. (The Pencil and Highlight Text tools stay selected.)"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 5,
+      "section_title": "Add a comment",
+      "refined_text": "Note: In Acrobat Reader , complete commenting tools are available only in PDFs that have commenting enabled. PDFs in a review workflow typically include commenting rights. The most common type of comment is the Add a comment that resembles a sticky note. The comment appears as a note icon on the page and a pop-up note for your text message. You can Add a comment anywhere on the page or in the document area. Use the Add a comment tool to add a text message in a pop-up note. Steps to add a comment 1. Select the Add a comment tool from the quick tools menu, and select where you want to place the note. 2. Type text in the pop-up note. You can also use the Select tool to copy and paste text from a PDF into the note. Note: If you close the pop-up note, your text remains. Edit a comment"
+    },
+    {
+      "document": "Learn Acrobat - Share_2.pdf",
+      "page_number": 5,
+      "section_title": "1.  Select or double-click the note icon.",
+      "refined_text": "2. (Optional) To change the comment properties, right-click the sticky note icon or from the options menu of the comment, select Properties. Modify the Sticky Note Properties as desired and select OK ."
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "Introduction",
+      "refined_text": "Export Expert: Test Your Acrobat Exporting Skills Welcome to the ultimate test of your Acrobat exporting skills! Think you know everything about saving, converting, and exporting PDFs? It's time to put your knowledge to the test. Dive into real-world scenarios, answer intriguing questions, and see if you have what it takes to be a true PDF exporting pro 1. Yes or No: Can you save a PDF in text format to use with a screen reader?"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "2.  True or False: Saving a digitally signed PDF invalidates the signature.",
+      "refined_text": "3. Scenario: Imagine you're working on an important report and your computer crashes. Do you rely on the Autosave feature to recover your work or start from scratch? 4. Yes or No: Can you recover the last saved version of a PDF if you accidentally delete it? 5. True or False: The Autosave feature in Acrobat saves your work every 15 minutes by"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "default.",
+      "refined_text": "6. Scenario: You're preparing a presentation for a big meeting. Do you use Acrobat to"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "convert your PDF to a PowerPoint file or manually recreate the slides?",
+      "refined_text": "7. Yes or No: Can you export a PDF to a reusable format like Microsoft Word? 8. True or False: Acrobat Reader users can save a copy of a PDF if the creator has enabled"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "usage rights.",
+      "refined_text": "9. Scenario: You're a graphic designer who needs to save a copy of a PDF Portfolio for a"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "client. Do you use \"File > Save\" or \"File > Save As\"?",
+      "refined_text": "10. Yes or No: Does the Autosave feature work if a document's security settings are"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "changed?",
+      "refined_text": "11. True or False: You can convert a PDF to a Microsoft PowerPoint presentation using"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "Acrobat.",
+      "refined_text": "12. Scenario: You're a student who needs to convert a PDF to a DOCX file for your thesis. Do"
+    },
+    {
+      "document": "Test Your Acrobat Exporting Skills.pdf",
+      "page_number": 1,
+      "section_title": "you use the \"Convert\" button in Acrobat or retype the entire document?",
+      "refined_text": "13. Yes or No: Can you export images from a PDF to another format using Acrobat? 14. True or False: Higher resolutions, like 2400 ppi, are suitable for small page sizes. 15. Scenario: You're a photographer who wants to save a PDF as a JPEG image for your portfolio. Do you use the \"Convert to JPEG\" option or take a screenshot? 16. Yes or No: Can you export a PDF to XML format using Acrobat? 17. True or False: You can use the Snapshot tool to copy selected content as an image. 18. Scenario: You're a web developer who needs to export a PDF to HTML for your website. Do you use the \"Convert to HTML\" option or manually code the content? 19. Yes or No: Can you select and copy text and images from a PDF using the Select tool? 20. True or False: The Autosave feature is disabled by default in Acrobat."
+    }
+  ]
+}

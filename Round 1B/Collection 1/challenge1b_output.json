@@ -1,0 +1,75 @@
+{
+    "metadata": {
+        "input_documents": [
+            "South of France - Cities.pdf",
+            "South of France - Cuisine.pdf",
+            "South of France - History.pdf",
+            "South of France - Restaurants and Hotels.pdf",
+            "South of France - Things to Do.pdf",
+            "South of France - Tips and Tricks.pdf",
+            "South of France - Traditions and Culture.pdf"
+        ],
+        "persona": "Travel Planner",
+        "job_to_be_done": "Plan a trip of 4 days for a group of 10 college friends.",
+        "processing_timestamp": "2025-07-28T23:23:47.994448"
+    },
+    "extracted_sections": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "section_title": "Introduction",
+            "importance_rank": 1,
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "section_title": "Introduction",
+            "importance_rank": 2,
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "section_title": "Conclusion",
+            "importance_rank": 3,
+            "page_number": 14
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "section_title": "Travel Tips",
+            "importance_rank": 4,
+            "page_number": 2
+        },
+        {
+            "document": "South of France - History.pdf",
+            "section_title": "Conclusion",
+            "importance_rank": 5,
+            "page_number": 12
+        }
+    ],
+    "subsection_analysis": [
+        {
+            "document": "South of France - Tips and Tricks.pdf",
+            "refined_text": "This guide covers everything from packing essentials to travel tips, catering to all seasons and various activities. Whether you're traveling solo, with kids, or in a group, this guide will help you make the most of your trip.",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Things to Do.pdf",
+            "refined_text": "Whether you're seeking adventure, relaxation, or cultural enrichment, this region has something for everyone. This guide will take you through a variety of activities and must-see attractions to help you plan an unforgettable trip.",
+            "page_number": 1
+        },
+        {
+            "document": "South of France - Restaurants and Hotels.pdf",
+            "refined_text": "The South of France offers a wide range of dining and accommodation options to suit every budget and preference. Whether you're looking for budget-friendly eateries, family-friendly spots, upscale dining, or luxurious experiences, this guide will help you find the perfect places to eat and stay during your trip. From the vibrant cities of Nice and Marseille to the charming villages of Provence, the South of France promises an unforgettable travel experience.",
+            "page_number": 14
+        },
+        {
+            "document": "South of France - Cities.pdf",
+            "refined_text": "Language: While French is the official language, English is widely spoken in tourist areas. Learning a few basic French phrases can enhance your travel experience.",
+            "page_number": 2
+        },
+        {
+            "document": "South of France - History.pdf",
+            "refined_text": "The South of France offers a rich tapestry of history, culture, and architecture that is sure to captivate any traveler. From the ancient Roman ruins of N\u00eemes and Arles to the medieval fortresses of Carcassonne and Avignon, each city and town has its own unique story to tell.",
+            "page_number": 12
+        }
+    ]
+}
